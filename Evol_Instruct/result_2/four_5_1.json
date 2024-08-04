@@ -1,0 +1,402 @@
+[
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能部门之间已经建立了群体沟通机制。 \n\n（以上两种风格分别采用了正式和简洁的语言风格）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均实行横向管理。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专项交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n不同职能的团队均已形成横向的沟通群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "ritten Prompt#: \n\n各职能在横向层面上都形成了相应的群体。 \n\n#Rewritten Prompt#:\n每个职责范围内部都设立了相应的群组组织。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用的是较为正式的语言风格。）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专业交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能部门之间已经建立了横向的群体联系。 \n\n（以上两种风格分别偏向正式和简洁）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能团队均采用横向组织结构。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均设有横向交流群。 \n\n（形式：正式）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "#Rewritten Prompt#:\r\n各职能之间都建立了相应的群组进行沟通。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流组。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向层面均设有相应的群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向层面均设有相应的群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（改为正式风格）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个部门内部设有专项交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了较为正式的语言风格进行重写。）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流组。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "每个职能部门都设有相应的群体进行横向联系。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向均设有相应群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能层面，都已建立起相应的群体网络。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向均设有相应群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专业交流小组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个部门内部设有专项交流小组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了较为正式的语言风格进行重写。）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "每个职能部门都设有相应的群体进行横向联系。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能团队均采用横向管理模式。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专项交流小组。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能内部均设有横向的群体。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能层面，都已经建立了相应的群体网络。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均设有横向交流群组。 \n\n（形式：正式）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了更正式的语言风格进行重写。）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专项交流小组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专业交流小组。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能团队均采用横向管理。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个部门内部设有专业交流小组。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能团队均采用横向管理模式。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向均设有相应群体。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能部门之间已经建立了横向的群体联系。 \n\n（以上两种风格分别采用了正式和简洁的语言风格。）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均设有横向交流群组。 \n\n（改为正式风格）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个部门之间设有专门的沟通桥梁。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用的是更正式的语言风格。）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应的群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向均设有相应的群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个部门间设有专项交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能层面都建立了相应的群体网络。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个岗位级别均设有专门的交流小组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流小组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个岗位垂直领域都设有专门的交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能层面都已建立了群体沟通机制。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流小组。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "每个职能团队都采取横向组织结构。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个岗位级别均有专属的交流协作圈。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能内部均设有横向的群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向层面上均设有相应群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流组。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了较为正式的语言风格进行重写。）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了更正式的语言风格进行重写。）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联系。 \n\n（形式：专业简洁）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能横向均设有相应群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "每个职能团队都采取横向组织结构。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能部门之间已经建立了横向的群体联系。 \n\n（以上两种风格分别采用了正式和简洁的表达方式。）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联系。 \n\n（注：此处采用的是较为正式的语言风格。）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向层面均设有相应群体。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "每个职能团队均采用横向管理模式。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n或\n\n在各个职能层面都已建立了群体沟通机制。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能在横向均设有相应群体。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专业交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均实行横向管理。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联系。 \n\n（改为正式风格）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个岗位级别均设有专门的交流圈子。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用的是更正式的语言风格进行重写。）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专项交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了较为正式的语言风格进行重写。）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均设有横向交流群组。 \n\n（Rewritten in a formal and concise style）"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "各职能团队均采用横向管理模式。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（注：此处采用了更正式的语言风格进行重写。）"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联络。 \n\n（改为正式风格）"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "每个业务领域内部分别设有专业交流小组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均设有横向交流群组。 \n\n或将语言风格调整为更口语化：\n大家按职能分成了不同的横向联系群哦。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "各职能纵向均设有专门的工作交流组。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "各职能团队均已实现横向联系。 \n\n（注：此处采用的是更正式的语言风格。）"
+    }
+]

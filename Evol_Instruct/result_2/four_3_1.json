@@ -1,0 +1,402 @@
+[
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提供反馈。务必促使他们给出建议。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出建议。必须提出建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，实行建议提交的制度。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期进行创新思维分享，必须提出至少三项改进工作的建议。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行意见反馈，要求他们必须提出至少三条建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励下属勇于提出创新性建议，并实行定期的建议提交制度。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求团队成员定期进行逆向头脑风暴，针对管理层的现有决策提出改进意见。积极鼓励批评性思考。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提供反馈。必须主动征求反馈。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励下属勇于提出创新性建议，定期举办建议征集活动，并对优秀建议给予表彰。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行头脑风暴，务必每人至少贡献一条建设性意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提供意见。务必促使他们给出建议。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行意见反馈，要求他们必须提出至少一条建设性意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，务必让他们分享意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的意见反馈。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，务必让他们给出意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提供反馈。务必促使他们给出建议。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求团队成员定期进行创新思维分享，必须提出至少三条建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行头脑风暴，务必每人至少贡献一项改进建议。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行反馈交流，要求他们必须提出至少一条建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期提交创新性改进方案，严格实施建议提交制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出建设性意见，务必让他们提出建议。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，实行建议的强制性反馈机制。 \n\n或\n\n督促下属必须给出意见，实行建议的硬性要求。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行意见反馈，要求他们必须提出至少三条建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行反馈交流，要求他们必须提出至少一条建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行反馈交流，要求他们必须提出至少一项改进建议。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，必须提出建设性意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建设性意见，必须履行建议提出的责任。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出建议。务必让他们提供反馈。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，务必让他们给出意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期进行创新思维分享，必须提出至少三项改进当前工作的建议。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期提交创新性改进方案，并将其作为工作评估的一项指标。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建设性意见，必须开展建议征集活动。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行意见反馈，要求他们必须提出至少三条建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励下属勇于提出创新性建议，并实行定期的建议提交制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，必须履行建议提出的职责。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建设性意见，必须履行建议提出的责任。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出意见。务必让他们给出建议。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行反馈交流，要求他们必须提出至少一项改进意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励下属勇于提出创新性建议，定期举行建议征集活动，并将其作为工作评估的一部分。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期提交创新性改进方案，严格实施建议提交制度。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，务必让他们分享意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励下属勇于提出创新性建议，并实行定期的建议反馈制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出意见。必须提出建设性建议。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期进行创新思维分享，必须提出至少三条建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期进行创新思维分享，必须提出至少三项未曾尝试过的改进建议。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的意见反馈机制。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出建议。务必让他们提出意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极对自己提出建议，必须履行建议反馈的责任。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提出建议，实行建议的强制性反馈机制。 \n\n或\n\n推动下属勇于给出意见，实行建议的硬性要求。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地寻求意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提供反馈。务必促使他们给出建议。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期进行创新思维分享，必须提出至少三项可行性改进措施。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励下属勇于提出创新性建议，并实行建议提交制度以促进团队进步。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期进行创新思维分享，必须提出至少三项创新建议。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行反馈交流，要求他们必须提出至少一条建设性意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "要求下属定期提交创新性改进建议。严厉督促创新建议的产出。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性反馈。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向上谏言，必须提出建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须提出建议，强制性地促使他们给出意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须给出建议，强制性地征求他们的意见。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行头脑风暴，务必每人至少贡献一条建设性意见。"
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "要求下属必须对自己提出建议，实行强制性的建议制度。"
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "积极鼓励团队成员定期进行反馈交流，要求他们必须提出至少三条建设性意见。"
+    },
+    {
+        "type": "style",
+        "evol_prompt": "鼓励团队成员积极向自己提供反馈。务必促使他们给出建议。"
+    }
+]
