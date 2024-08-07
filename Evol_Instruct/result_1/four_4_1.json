@@ -1,402 +1,602 @@
 [
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行到位。"
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行到位。"
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注，确保执行到位。"
+        "evol_prompt": "持续关注，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 79.47700500488281
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行到位。"
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续关注并执行到位。"
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行到位。"
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行。"
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控，确保执行到位。"
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行。"
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟踪并确保执行到位。"
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "style",
-        "evol_prompt": "持续跟进，确保执行到位。"
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969
     },
     {
         "type": "structure",
-        "evol_prompt": "持续跟进并确保执行到位。"
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922
     },
     {
         "type": "bread",
-        "evol_prompt": "持续监控并确保执行到位。"
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969
     }
 ]
