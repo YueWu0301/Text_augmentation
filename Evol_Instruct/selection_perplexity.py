@@ -42,9 +42,6 @@ def getp (sentence):
     return ppl
 
 
-
-
-
 folder_path = 'result_1'
 json_filenames = []
 def process_item(item):

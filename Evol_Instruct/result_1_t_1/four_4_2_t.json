@@ -2,701 +2,501 @@
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，要求B站点在地区市场营销活动中，特别是在重要节庆日期间，能与各区域销售团队实现协同效应。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 156.214111328125
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域市场营销活动在黄金周及大型节庆期间能够协同推进，实现战略统一。",
-        "index": 0,
-        "sentence_length": 50,
-        "perplexity": 146.04466247558594
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够实现协同效应。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台运作顺利，而且得让咱们大区的营销团队在那些重要节日庆典上动作一致，配合得天衣无缝。",
-        "index": 0,
-        "sentence_length": 127,
-        "perplexity": 66.45697021484375
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n在对接粤海方面，我们要确保A站台的无缝配合，同时让大区的营销运作在大节日和大庆活动中形成联动效应。",
-        "index": 0,
-        "sentence_length": 119,
-        "perplexity": 64.40941619873047
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域营销运营在重点节庆期间能够协同合作，形成统一的营销阵线。",
-        "index": 0,
-        "sentence_length": 47,
-        "perplexity": 127.44876098632812
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的支持，并让大区的市场营销和运营在重大节庆活动中保持同步。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 242.33004760742188
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时在大节庆期间，需要我们各大区域的营销运营团队协同作战，保持步调一致。",
-        "index": 0,
-        "sentence_length": 62,
-        "perplexity": 77.14527130126953
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，同时要求大区域的市场营销和运营在重大节庆活动中能够保持同步协作。",
-        "index": 0,
-        "sentence_length": 56,
-        "perplexity": 191.32261657714844
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，需构建B站台，确保区域营销运营在重点节庆活动期间能够协同合作，形成统一战线。",
-        "index": 0,
-        "sentence_length": 48,
-        "perplexity": 164.5028076171875
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作同步，并让大区的市场营销和运营在重大节庆活动中保持协同一致。",
-        "index": 0,
-        "sentence_length": 47,
-        "perplexity": 210.74008178710938
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港珠澳大桥相关区域，要求B站台配合，确保区域营销运营在重大节庆活动中，能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 173.90509033203125
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够保持协同一致。",
-        "index": 0,
-        "sentence_length": 51,
-        "perplexity": 220.60121154785156
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保在区域营销活动中，特别是在重要节庆及大型庆典期间，能够实现多方协同与同步推广。",
-        "index": 0,
-        "sentence_length": 57,
-        "perplexity": 159.63824462890625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作一致，特别是在大区行销在大节大庆期间需要同步协作。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 418.8445739746094
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南海区域合作时，需确保B站台在重大节庆期间，能与区域营销运营团队达成同步推广策略。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 333.1368103027344
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作事宜上，我们需确保A站台的支持，同时希望在大节庆时期，大区的市场营销和运营能够同步协作，达成共识。 \n\n#Rewritten Prompt#:\n对于和粤海的合作，我们要争取到A站台的资源，并且希望在大型的庆祝活动中，各地区营销运作能够协调一致，共同推进。",
-        "index": 0,
-        "sentence_length": 134,
-        "perplexity": 47.7480354309082
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作同步，并且在大节庆时期，大区行销运营能够实现协同合作。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 207.04107666015625
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站点，需求区域营销运营在重要节庆期间能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 39,
-        "perplexity": 409.591796875
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够形成协同效应。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台给咱们助力，同时推动大区的营销运作，在那些重要的庆典上得齐心协力。",
-        "index": 0,
-        "sentence_length": 115,
-        "perplexity": 82.43465423583984
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，须确保B站点配合，要求区域营销运营在重要节庆及大型活动中保持协同效应。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 424.53497314453125
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n对于和粤海的合作，咱们得确保A站台给力，同时让大区的营销团队在那些重要的庆典上步调一致。",
-        "index": 0,
-        "sentence_length": 114,
-        "perplexity": 72.28617858886719
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的支持，并让大区行销运营在重大节庆活动中保持同步合作。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 307.5938720703125
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n对于和粤海的合作事宜，咱们得确保A站台这边配合无间，同时让咱们大区的营销运营团队在那些重要节庆上步调一致。",
-        "index": 0,
-        "sentence_length": 123,
-        "perplexity": 73.620849609375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保在重要节庆及大型活动中，各区域市场推广与运营能够协同合作，形成统一的品牌推广阵线。",
-        "index": 0,
-        "sentence_length": 59,
-        "perplexity": 109.14601135253906
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够保持同步，达成协同效应。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台运作顺利，而且得让咱们大区的营销团队在那些重要的节日庆典上动作一致，配合得天衣无缝。",
-        "index": 0,
-        "sentence_length": 133,
-        "perplexity": 66.00645446777344
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作事宜上，我们必须确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够形成统一战线。",
-        "index": 0,
-        "sentence_length": 51,
-        "perplexity": 225.94387817382812
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作事宜上，我们必须确保A站台的支持，同时争取大区域市场营销运营在重大节庆活动中能够形成协同效应。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台配合我们，而且要推动各大区的营销运营在重要节庆期间能齐心协力。",
-        "index": 0,
-        "sentence_length": 118,
-        "perplexity": 72.78021240234375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南岸发展项目合作，需构建B站台，确保区域市场营销团队在重要节庆及大型活动中保持战略协同。",
-        "index": 0,
-        "sentence_length": 47,
-        "perplexity": 335.02197265625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台与大区营销运营在重大节庆活动中能够协同合作，达成统一行动。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 174.76890563964844
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，需构建B站台，确保区域营销运营在重要节庆及大型活动中保持协同效应。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 279.6300964355469
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域营销运营在重点节庆期间能够协同合作，共同推进大型促销活动。",
-        "index": 0,
-        "sentence_length": 48,
-        "perplexity": 151.157958984375
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台运作一致，特别是在大区进行大型庆祝活动时，行销运营需要同步协作。",
-        "index": 0,
-        "sentence_length": 48,
-        "perplexity": 276.52154541015625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台运作顺利，并且在大节庆期间，大区行销运营能够实现统一行动。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 179.8440399169922
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够保持同步协调。",
-        "index": 0,
-        "sentence_length": 51,
-        "perplexity": 257.0840759277344
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，需构建B站台，确保区域市场营销活动在重要节庆期间能够协同高效执行。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 291.63006591796875
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台与大区营销运营在重大节庆活动期间能够协同合作，达成统一行动。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 142.24908447265625
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时在大节庆期间，需要我们大区的营销运营团队协同动作，保持战略一致性。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台运作顺畅，而且到了那些重要节日，我们这片区域的市场推广和运营得齐心协力，共同推进活动。",
-        "index": 0,
-        "sentence_length": 137,
-        "perplexity": 69.89056396484375
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作事宜上，我们必须确保A站台的支持，同时争取大区营销运营在重大节庆活动中能够同步行动，形成合力。 \n\n#Rewritten Prompt#:\n对于和粤海的合作，我们要确保A站台顺利对接，同时推动大区营销团队在重要节庆期间协调一致，共同推进活动。",
-        "index": 0,
-        "sentence_length": 128,
-        "perplexity": 50.9738655090332
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台与大区营销运营在重大节庆活动中能够协同合作，达成统一行动。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 174.76890563964844
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够保持同步，实现协同效应。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台运作顺畅，而且得让咱们大区的营销团队在那些重要的庆祝活动上步调一致，共同发力。",
-        "index": 0,
-        "sentence_length": 130,
-        "perplexity": 63.50334167480469
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够实现协同效应。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台运作顺畅，而且得让咱们大区的营销团队在那些重要节日庆典上统一行动起来。",
-        "index": 0,
-        "sentence_length": 121,
-        "perplexity": 69.63272094726562
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区域的市场营销和运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台配合顺利，同时让咱们大区的营销运营团队在重要节庆上齐心协力。",
-        "index": 0,
-        "sentence_length": 119,
-        "perplexity": 56.72819900512695
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港珠澳大桥区域营销战略配合，需构建B站台，确保区域营销团队在重大节庆及品牌联动活动中，能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 98.13988494873047
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作顺利，并且在大节庆期间，大区行销运营能够实现统一行动。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 176.08152770996094
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的支持，并促使大区行销运营在重大节庆活动中保持同步合作。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 344.2853088378906
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作一致，特别是在大区进行大型节日庆典的营销运营期间。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 315.47601318359375
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，并且在大节大庆期间，大区行销运营能够实现统一行动。",
-        "index": 0,
-        "sentence_length": 49,
-        "perplexity": 229.4339141845703
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作同步，并让大区营销运营在重大节庆活动中保持协同一致。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 281.0120849609375
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作事宜上，我们需确保A站台的支持，并希望在大节庆日期间，大区的市场营销和运营能够形成统一战线。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 143.194091796875
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南岸区域合作，须确保B站点配合，要求区域营销运营在重要节庆及大型活动中保持同步战略。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 481.8419189453125
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域营销运营在重要节庆活动期间能够协同合作，共同推进大型促销活动。",
-        "index": 0,
-        "sentence_length": 50,
-        "perplexity": 133.7862091064453
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，要求B站点在重要节庆及大型活动中，能与区域营销团队协同配合，共同推进一致性的营销战略。",
-        "index": 0,
-        "sentence_length": 52,
-        "perplexity": 154.50057983398438
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港珠澳区域合作，需构建B站点，需求区域营销运营在重大节庆活动中，能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 230.0415802001953
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所相关区域合作，需构建B站台，确保区域营销运营在重大节庆活动期间能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 154.78558349609375
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区域的市场营销和运营在重大节庆活动中能够协同行动。 \n\n#Rewritten Prompt#:\n在对接粤海方面，务必保证A站台的合作无间，同时促使各大区的营销运营团队在举办大型庆祝活动时步调一致。",
-        "index": 0,
-        "sentence_length": 125,
-        "perplexity": 61.25766372680664
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台在重要节庆期间，能与大区营销运营达成同步协作。",
-        "index": 0,
-        "sentence_length": 38,
-        "perplexity": 263.2771911621094
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台在重大节庆活动期间，能与大区营销运营达成同步合作。",
-        "index": 0,
-        "sentence_length": 40,
-        "perplexity": 167.00852966308594
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，并且在大节大庆期间，大区行销运营能够实现统一行动。",
-        "index": 0,
-        "sentence_length": 49,
-        "perplexity": 229.4339141845703
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台与大区营销运营在重大节庆活动期间能够协同合作，达成统一行动。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 142.24908447265625
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，须确保B站点顺利运作，要求区域营销运营在重要节庆及大型活动中保持战略协同一致。",
-        "index": 0,
-        "sentence_length": 49,
-        "perplexity": 371.1689758300781
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作一致，特别是在大区行销在大节大庆期间需要协同作业。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 348.7363586425781
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保在区域营销活动中，尤其是重大节庆期间，能与各区域分公司实现策略同步与协作一致。",
-        "index": 0,
-        "sentence_length": 57,
-        "perplexity": 201.64064025878906
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港珠澳大桥沿线区域合作，需构建B服务平台，确保区域营销活动在重大节庆期间能够协同推进，实现品牌联动效应。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 102.56571197509766
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区域的市场营销和运营在重大节庆活动中能够协同发力，形成统一战线。 \n\n#Rewritten Prompt#:\n得让粤海这边的A站台运作顺畅，而且得确保大型节庆时，咱们大区的营销和运营动作能整齐划一。",
-        "index": 0,
-        "sentence_length": 130,
-        "perplexity": 55.12884521484375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，需设立B站点，确保区域营销运营在重大节庆活动期间能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 205.68206787109375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南岸区域合作，需构建B站台，确保区域营销运营在重点节庆及大型活动中保持同步协作。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 344.9046325683594
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，并且在大节大庆期间，大区行销运营能够实现统一行动。",
-        "index": 0,
-        "sentence_length": 49,
-        "perplexity": 229.4339141845703
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够保持同步协调。 \n\n#Rewritten Prompt#:\n得让粤海这边的A站台配合好，而且得让咱们大区的营销运作，在那些重要的节日庆典上，能够齐心协力一把。",
-        "index": 0,
-        "sentence_length": 121,
-        "perplexity": 75.85752868652344
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够保持同步协调。 \n\n#Rewritten Prompt#:\n得让粤海这边的A站台配合到位，而且得让咱们大区的营销运作，在那些重要节庆上能齐心协力。",
-        "index": 0,
-        "sentence_length": 115,
-        "perplexity": 77.21821594238281
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台配合咱们，而且得让区域营销团队在那些重要节日和大庆活动中步调一致。",
-        "index": 0,
-        "sentence_length": 113,
-        "perplexity": 96.3668212890625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，同时要求大区域的市场营销和运营在重大节庆活动中能够保持同步协调。",
-        "index": 0,
-        "sentence_length": 56,
-        "perplexity": 175.94932556152344
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保各区域市场推广在重大节庆活动期间能够协同联动。",
-        "index": 0,
-        "sentence_length": 41,
-        "perplexity": 180.40438842773438
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们需确保A站台运作与大区营销活动在重大节庆期间能够保持协同一致。",
-        "index": 0,
-        "sentence_length": 40,
-        "perplexity": 198.45164489746094
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保各区域市场推广在重大节庆期间能够协同合作，形成联动效应。",
-        "index": 0,
-        "sentence_length": 46,
-        "perplexity": 135.92977905273438
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南岸合作事宜中，要求B站点配合，确保区域市场营销在大型节庆活动中能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 370.84417724609375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南岸合作事宜，需构建B站台，确保区域营销运营在重要节庆及大型活动中保持同步战略部署。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 405.5395812988281
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保在重要节庆及大型活动期间，各大区域市场推广与运营团队能够协同配合，实现联动效应。",
-        "index": 0,
-        "sentence_length": 58,
-        "perplexity": 97.66986083984375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，要求B站台配合，确保在重要节庆及大型活动期间，各区域市场推广动作能够同步协调一致。",
-        "index": 0,
-        "sentence_length": 50,
-        "perplexity": 114.361572265625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的需求得到满足，同时要求大区域的市场营销和运营在重大节庆活动中能够保持同步协调。",
-        "index": 0,
-        "sentence_length": 56,
-        "perplexity": 175.94932556152344
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够形成协同效应。 \n\n#Rewritten Prompt#:\n得让粤海这边的A站台配合好，同时推动大区营销团队在那些重要节庆上动作一致，共同发力。",
-        "index": 0,
-        "sentence_length": 114,
-        "perplexity": 76.03693389892578
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区域的市场营销和运营在重大节庆活动中能够协同行动。 \n\n#Rewritten Prompt#:\n在对接粤海方面，务必协调好A站台的使用，同时让各大区的营销运营团队在重要节庆期间保持同步合作。",
-        "index": 0,
-        "sentence_length": 122,
-        "perplexity": 49.182029724121094
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够形成统一战线。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台给咱们助力，而且得让大区的营销团队在那些重要的庆祝活动上动作一致。",
-        "index": 0,
-        "sentence_length": 115,
-        "perplexity": 81.15248107910156
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时在大节庆期间，大区的市场营销和运营能够协同发力，实现步调一致。 \n\n#Rewritten Prompt#:\n得让粤海这边的A站台有保障，而且到了大型庆典的时候，咱们区域营销运作得齐心协力，共同推进。",
-        "index": 0,
-        "sentence_length": 127,
-        "perplexity": 62.39295959472656
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够保持同步协调。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台给咱们撑腰，而且得让区域营销团队在那些重要的庆典上步调一致。",
-        "index": 0,
-        "sentence_length": 112,
-        "perplexity": 103.82485961914062
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，需构建B站台，确保区域市场营销活动在重要节庆期间能够协同高效执行。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 291.63006591796875
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，需构建B平台，确保各区域市场推广在重大节庆活动中能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 203.92161560058594
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的需求得到满足，同时要求大区营销运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n得让粤海这边的A站台运作顺畅，而且得确保大型节庆时，咱们大区的营销运作能够齐心协力。",
-        "index": 0,
-        "sentence_length": 116,
-        "perplexity": 58.281166076660156
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站点，需求区域营销团队在重点节假日期间，能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 41,
-        "perplexity": 264.0141296386719
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台的支持，并让大区的市场营销和运营在重大节庆活动中保持同步。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 242.33004760742188
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港珠澳大桥相关区域，要求B站台配合，确保区域市场营销在重大节庆期间实现协同效应。",
-        "index": 0,
-        "sentence_length": 41,
-        "perplexity": 220.4256134033203
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港珠澳大桥区域营销战略相配合，要求B站点在重要节庆期间，能与各区域营销运营团队协同推进统一的大型促销活动。",
-        "index": 0,
-        "sentence_length": 54,
-        "perplexity": 87.34674835205078
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作事宜上，我们需确保A站台运作顺利，同时期望在大节庆期间，大区的市场营销和运营团队能够保持协同一致。 \n\n#Rewritten Prompt#:\n对于和粤海的合作，我们要保证A站台顺利运作，并希望在大节日庆祝活动时，各地区营销运营能够齐心协力。",
-        "index": 0,
-        "sentence_length": 128,
-        "perplexity": 42.48346710205078
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够形成统一战线。 \n\n#Rewritten Prompt#:\n得让粤海那边的A站台配合我们，而且得让区域营销团队在那些重要节庆上动作一致，共同推进。",
-        "index": 0,
-        "sentence_length": 115,
-        "perplexity": 89.66704559326172
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "在与粤海的合作中，关键是要确保A站台的支持，同时要求大区营销运营在重大节庆活动中能够统一行动。 \n\n#Rewritten Prompt#:\n对于和粤海的合作，咱们得确保A站台这边配合无间，同时让咱们大区的营销团队在那些重要的庆典活动中齐心协力。",
-        "index": 0,
-        "sentence_length": 122,
-        "perplexity": 69.39138793945312
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "对于粤海区域，我们必须确保A站台运作顺利，同时要求大区营销运营在重大节庆活动中能够统一行动。",
-        "index": 0,
-        "sentence_length": 46,
-        "perplexity": 249.46153259277344
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域营销运营在重点节庆活动期间能够协同合作，形成统一战线。",
-        "index": 0,
-        "sentence_length": 46,
-        "perplexity": 127.21070098876953
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与珠江南部区域合作，须确保B站点配合，要求区域营销运营在重大节庆期间能够协同推进统一主题活动。",
-        "index": 0,
-        "sentence_length": 47,
-        "perplexity": 515.2918090820312
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域营销运营在重点节假日期间能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 40,
-        "perplexity": 187.7276153564453
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与港交所合作方面，要求B站台配合，确保在重要节庆及大型活动中，各区域市场推广与运营能够同步协调一致。",
-        "index": 0,
-        "sentence_length": 50,
-        "perplexity": 128.0252685546875
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "与江南地区合作，需构建B站台，确保区域营销运营在重点节假日期间能够实现协同效应。",
-        "index": 0,
-        "sentence_length": 40,
-        "perplexity": 187.7276153564453
+        "index": 0
     }
 ]

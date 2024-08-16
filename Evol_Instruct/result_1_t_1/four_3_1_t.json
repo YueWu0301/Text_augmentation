@@ -2,701 +2,501 @@
     {
         "type": "style",
         "evol_prompt": "日常安排得井井有条，晨起既读书又听书，健身运动每周坚持不懈，还定期进行爬山活动。",
-        "index": 0,
-        "sentence_length": 40,
-        "perplexity": 79.97830200195312
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每日早晨进行书法练习和英文听力训练，每周末规律进行瑜伽和力量训练，并定期参与户外徒步活动。",
-        "index": 0,
-        "sentence_length": 56,
-        "perplexity": 71.3821792602539
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常自我管理严格，晨起既读书又听书，坚持每周定时健身，且不忘每周攀登高峰。",
-        "index": 0,
-        "sentence_length": 37,
-        "perplexity": 289.8913269042969
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "每天都能高效地安排自己的时间，晨起既读书又听书，健身运动已成每周定律，更是每周必定投身于爬山活动。 \n\n或\n\n我对于时间掌控得宜，早晨的习惯是沉浸在书籍和有声书中，每周规律性地锻炼身体，并且坚持不懈地攀登高山。",
-        "index": 0,
-        "sentence_length": 105,
-        "perplexity": 129.58616638183594
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力出色，坚持每天早晨进行文学作品的深度阅读和知识性听书，且严格遵守每周两次的力量训练和瑜伽课程，同时保持每周末长距离徒步的习惯。",
-        "index": 0,
-        "sentence_length": 69,
-        "perplexity": 103.5202407836914
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得当，晨起既读书又听书，健身运动每周坚持如常，更是每周必行山野间。",
-        "index": 0,
-        "sentence_length": 39,
-        "perplexity": 226.85340881347656
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理极为出色，坚持每日清晨进行英语学习与专业书籍阅读，每周末按照计划进行瑜伽和力量训练，并定期参与户外徒步探险活动。",
-        "index": 0,
-        "sentence_length": 60,
-        "perplexity": 79.87520599365234
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，每周固定时间进行体育锻炼和爬山活动，我对个人的时间安排非常有条理。",
-        "index": 0,
-        "sentence_length": 47,
-        "perplexity": 39.563140869140625
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间掌控得宜，每日清晨投身于阅读与听书，坚持每周规律性锻炼身体，同时享受登山的乐趣。 \n\n或\n\n我擅长安排时间，每天早起阅读兼听书，健身运动已成为我每周的固定节目，还有每周一次的爬山活动从不落下。",
-        "index": 0,
-        "sentence_length": 100,
-        "perplexity": 77.1133804321289
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，每周进行规律性的健身活动和爬山锻炼，我对个人时间的管理非常到位。",
-        "index": 0,
-        "sentence_length": 46,
-        "perplexity": 72.4231185913086
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，每周固定时间进行体育锻炼和爬山活动，我对个人时间的管理颇为得当。",
-        "index": 0,
-        "sentence_length": 46,
-        "perplexity": 51.24451446533203
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "每天都能高效规划时间，早晨坚持阅读和听力学习，每周固定时间进行健身和体育运动，同时确保每周都有户外爬山活动。 \n\n#Rewritten Prompt#:\n我善于安排个人时间，晨起既读书又听书，健身已成为每周的必修课，还不忘每周攀登一次山峰。",
-        "index": 0,
-        "sentence_length": 120,
-        "perplexity": 52.74030303955078
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天坚持早晨阅读和听力练习，我对自己时间的安排非常得当。此外，我还保持着每周规律性的健身活动和固定的爬山计划。 \n\nREWITTEN PROMPT:\n我有效地管理着自己的时间，每日清晨投身于阅读与听书，并且每周都有固定的健身和爬山习惯。",
-        "index": 0,
-        "sentence_length": 118,
-        "perplexity": 56.35438537597656
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地安排时间，早晨阅读及听书，每周保持健身和运动，同时还坚持每周攀登山脉。",
-        "index": 0,
-        "sentence_length": 41,
-        "perplexity": 156.85647583007812
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得极为出色，坚持每日清晨进行深度阅读和语音书籍学习，且遵循严格的每周健身计划，包括规律的有氧运动和力量训练，同时确保每周末进行户外徒步探险以放松身心。",
-        "index": 0,
-        "sentence_length": 79,
-        "perplexity": 61.72981262207031
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理极为出色，坚持每日早晨进行深度阅读和语音学习，且遵循严格的每周健身计划，包括规律性的力量训练和户外徒步活动。",
-        "index": 0,
-        "sentence_length": 58,
-        "perplexity": 116.00834655761719
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和聆听书籍，早上进行自我时间管理。每周保持固定的健身活动和爬山计划。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 105.90736389160156
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间掌控得宜，晨起阅读充电，每周坚持健身和户外攀岩，生活节奏规律有序。",
-        "index": 0,
-        "sentence_length": 37,
-        "perplexity": 143.2347869873047
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间掌控出色，晨起阅读聆听书籍，每周规律性锻炼身体，并坚持徒步登山活动。 \n\n或\n\n我对于时间安排得心应手，每日清晨沉浸在知识的海洋中，每周健身已成为习惯，还不忘投身大自然的怀抱，定期攀登高峰。",
-        "index": 0,
-        "sentence_length": 99,
-        "perplexity": 120.5079345703125
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，保持每周定时进行体育锻炼和健身，同时还规律性地投身于每周的爬山活动。",
-        "index": 0,
-        "sentence_length": 48,
-        "perplexity": 89.96894073486328
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地早起阅读和聆听书籍，对自我时间把控得当。每周坚持进行体育锻炼和健身，同时确保定期爬山活动。",
-        "index": 0,
-        "sentence_length": 51,
-        "perplexity": 92.70618438720703
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，每周进行规律性的健身活动并安排爬山锻炼。",
-        "index": 0,
-        "sentence_length": 34,
-        "perplexity": 94.03004455566406
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排极为高效，坚持每日清晨进行外语学习与专业书籍聆听，且遵循严格的健身计划，每周末进行长距离徒步探险。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 202.9805908203125
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，时间管理得当；规律性的每周进行体育锻炼和健身，同时确保每周有爬山活动。",
-        "index": 0,
-        "sentence_length": 49,
-        "perplexity": 76.05292510986328
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和聆听书籍，早上时间安排得当，同时坚持每周进行体育锻炼和爬山活动。",
-        "index": 0,
-        "sentence_length": 41,
-        "perplexity": 56.80434036254883
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持晨读与听书，对时间管理颇有心得；每周固定时间进行健身和体育运动，同时也不忘投身于每周的爬山活动。",
-        "index": 0,
-        "sentence_length": 52,
-        "perplexity": 57.82706832885742
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间掌控得宜，晨起既读书又听书，每周坚持规律性锻炼，同时享受登山的乐趣。 \n\n或\n\n我对于时间分配颇有心得，早晨习惯阅读与听觉学习，健身活动每周定时进行，还保持着每周攀登山峰的习惯。",
-        "index": 0,
-        "sentence_length": 93,
-        "perplexity": 144.264404296875
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每天早晨进行深度学习和听觉学习，且遵循固定的健身计划，包括每周规律性参与各类体育运动以及每周末远足探索不同的山脉。",
-        "index": 0,
-        "sentence_length": 68,
-        "perplexity": 141.02490234375
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持晨读和听书，对自我时间把控得当；规律地进行每周的健身运动，同时也保持每周爬山的习惯。",
-        "index": 0,
-        "sentence_length": 46,
-        "perplexity": 80.37498474121094
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排极为出色，坚持每日早晨进行文学作品的深度阅读和语音书籍的聆听，且遵循严格的每周健身计划，包括规律的力量训练和户外徒步活动。 \n\nRewritten Prompt:\n拥有卓越的自我调控能力，日复一日地保持早晨文学品鉴和知识吸收的习惯，同时坚持每周进行多样化的体能锻炼以及定期的山地徒步旅行。",
-        "index": 0,
-        "sentence_length": 148,
-        "perplexity": 57.95114517211914
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每天早晨进行外语学习并收听知识性播客，严格遵守每周两次的力量训练和瑜伽课程，同时确保每两周进行一次远足探险。",
-        "index": 0,
-        "sentence_length": 65,
-        "perplexity": 108.03585815429688
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每日早晨进行阅读和听力学习，严格遵循每周固定的健身计划，且每逢周末都投身于户外徒步活动中。 \n\n#Rewritten Prompt#:\n拥有卓越的个人时间规划，每日清晨投身于书籍和有声书的海洋，坚持每周固定的锻炼习惯以保持体态健康，并每逢周未不辍地探索不同的山脉步道。",
-        "index": 0,
-        "sentence_length": 145,
-        "perplexity": 76.5033950805664
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力出色，坚持每天早晨进行深度阅读和有声书学习，每隔一日进行瑜伽练习，每周末固定进行长距离慢跑，并每月至少攀登一座不同山脉。",
-        "index": 0,
-        "sentence_length": 66,
-        "perplexity": 96.67440032958984
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天坚持早起阅读和听力学习，同时保持每周定时进行体育锻炼和爬山活动，我对个人时间的管理颇为得当。",
-        "index": 0,
-        "sentence_length": 48,
-        "perplexity": 63.352813720703125
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力极佳，每日坚持早起进行文学作品的阅读和有声书的聆听，每隔一日进行专业健身训练，每周末固定远足探索不同的山脉风光。",
-        "index": 0,
-        "sentence_length": 62,
-        "perplexity": 91.10572052001953
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理极为出色，坚持每日早晨进行深度阅读及聆听知识性音频，严格遵循每周健身计划并保持户外徒步探险的习惯。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 215.51626586914062
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排极为出色，坚持每天早晨进行深度学习和有声阅读，每隔一日进行瑜伽练习，且每周末固定远足不同山脉以强身健体。",
-        "index": 0,
-        "sentence_length": 56,
-        "perplexity": 119.552978515625
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理极为出色，坚持每日清晨进行深度阅读及听力学习，严格遵循每周固定的健身计划，且每周末都投身于户外徒步探险活动。",
-        "index": 0,
-        "sentence_length": 58,
-        "perplexity": 103.26289367675781
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得宜，晨起既读书又听书，坚持每周规律性锻炼，且不忘每周攀登高峰。",
-        "index": 0,
-        "sentence_length": 38,
-        "perplexity": 275.52728271484375
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，规律性地进行每周的健身和体育运动，同时确保每周有爬山活动。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 57.512779235839844
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地安排时间，早晨既阅读也聆听书籍，每周保持健身和规律的体育运动，同时还进行爬山活动。 \n\nRewritten Prompt (alt. version):\n坚持每天早晨读书或听书，每周固定健身并参与体育活动，同时也不忘每周攀登一次山峰。",
-        "index": 0,
-        "sentence_length": 123,
-        "perplexity": 60.06661605834961
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常安排得井井有条，晨起阅读充电，每周固定健身活动，还坚持每周攀登高峰。",
-        "index": 0,
-        "sentence_length": 36,
-        "perplexity": 99.79822540283203
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得极为出色，每日清晨坚持阅读并汲取知识，规律性地进行每周健身和户外跑步，且每周末投身于徒步探险活动。",
-        "index": 0,
-        "sentence_length": 54,
-        "perplexity": 113.62873077392578
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得宜，每日早晨坚持学习与听力练习，每隔一日进行瑜伽放松，每周末规律远足探索新径。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 223.62142944335938
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，每周都有固定的健身和爬山活动，对个人时间进行着有效的管理。",
-        "index": 0,
-        "sentence_length": 43,
-        "perplexity": 98.99099731445312
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力卓越，坚持每日清晨阅读并吸收新知识，遵循每周固定的健身计划，且每逢周末都投身于徒步探险活动中，充实身心。 \n\n#Rewritten Prompt#:\n坚持高效的时间规划，每日早晨沉浸于书籍与音频学习之中，维持每周定期的体育锻炼习惯，并定期投身于户外登山活动。",
-        "index": 0,
-        "sentence_length": 135,
-        "perplexity": 59.152374267578125
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常安排得井井有条，晨起既读书又听书，健身运动每周坚持，还不忘每周攀登高峰。",
-        "index": 0,
-        "sentence_length": 38,
-        "perplexity": 101.67984008789062
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常安排得井井有条，晨起既读书又听书，每周坚持规律的运动健身，还不忘每周攀登高峰。",
-        "index": 0,
-        "sentence_length": 41,
-        "perplexity": 91.92457580566406
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，规律地进行每周健身与运动，同时还保持每周登山的习惯，我对个人的时间管理非常到位。",
-        "index": 0,
-        "sentence_length": 54,
-        "perplexity": 137.974609375
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，每周进行规律性的健身活动并安排爬山锻炼。",
-        "index": 0,
-        "sentence_length": 34,
-        "perplexity": 94.03004455566406
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得极为高效，每日清晨坚持阅读并吸收新知，坚持每周定时进行多样化的体育活动，包括规律性的健身与户外徒步。",
-        "index": 0,
-        "sentence_length": 55,
-        "perplexity": 113.05611419677734
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得宜，晨起阅读充电，每周规律锻炼保持体能，同时坚持每周攀登高峰。 \n\n（改为更正式且详细的语言风格）",
-        "index": 0,
-        "sentence_length": 56,
-        "perplexity": 413.15301513671875
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力出众，坚持每天早晨进行深度阅读和有声书学习，每隔一日进行瑜伽练习，每周固定两天进行户外徒步活动，并严格按照计划进行肌肉训练。",
-        "index": 0,
-        "sentence_length": 68,
-        "perplexity": 71.5231704711914
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力出色，坚持每日清晨进行文学作品的深度阅读和知识性听书，且每周固定时间进行多样化的体育活动，包括规律性的健身和户外徒步探险。",
-        "index": 0,
-        "sentence_length": 67,
-        "perplexity": 85.69955444335938
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常自我管理颇为得心应手，晨起既读书又听书，每周定时进行体育锻炼，同时保持定期的爬山活动。 \n\n或：\n\n我对于时间安排有着自己的一套方法，早晨不是读书就是听书，一周里健身成为了我的固定节目，还不忘每周给自己来点户外攀登。",
-        "index": 0,
-        "sentence_length": 110,
-        "perplexity": 69.62684631347656
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和听书，我对自我时间的管理颇为得当。此外，我每周都会坚持进行健身运动，并安排时间进行爬山活动。 \n\nRewritten Prompt (alt. version):\n我养成了良好的时间管理习惯，包括每天早晨的阅读和听力练习，并且每周都有固定的健身计划，以及定期的爬山活动。",
-        "index": 0,
-        "sentence_length": 144,
-        "perplexity": 29.16379737854004
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听书，遵循固定的健身计划每周锻炼，同时保持每周攀登山峰的习惯，我对自己时间的管理颇为得当。",
-        "index": 0,
-        "sentence_length": 54,
-        "perplexity": 129.99513244628906
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每天早晨进行知识充电，包括阅读和听觉学习，且遵循固定的健身计划，每周定期参与各类有氧及力量训练，同时保持每周末远足爬山的习惯。 \n\n#Rewritten Prompt#:\n拥有卓越的自我调度技巧，日复一日地保持清晨的知识汲取，结合书本和听力学习，且严格实行周密的健身日程，包括规律性的身体锻炼和户外徒步活动。",
-        "index": 0,
-        "sentence_length": 165,
-        "perplexity": 44.053768157958984
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天坚持早起阅读和听力学习，对个人时间管理得宜；同时，遵循每周固定的健身计划和爬山活动，保持身体健康规律。",
-        "index": 0,
-        "sentence_length": 53,
-        "perplexity": 85.08235931396484
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得极为高效，每日坚持早起进行阅读和听力学习，且严格按照每周计划进行体能训练和户外徒步活动。 \n\n#Rewritten Prompt#:\n坚持高效的时间规划，每天早晨投身于书籍和有声学习中，每周固定时间进行系统的健身和山野徒步活动。",
-        "index": 0,
-        "sentence_length": 119,
-        "perplexity": 59.319053649902344
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理极为出色，坚持每日早晨进行英文阅读和听力训练，严格遵守每周两次的力量与有氧运动计划，并持之以恒每周末进行户外徒步探险。",
-        "index": 0,
-        "sentence_length": 63,
-        "perplexity": 56.99584197998047
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得宜，晨起既阅读又聆听书籍，每周固定锻炼身体并坚持爬山活动。 \n\n或\n\n我对于时间掌控得颇为得心应手，早晨习惯性地沉浸在书籍的世界中，每周健身和攀登山峰成为了我规律生活的一部分。",
-        "index": 0,
-        "sentence_length": 95,
-        "perplexity": 92.0294418334961
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天坚持早起阅读和听力学习，同时保持每周固定的健身活动和爬山计划，我对个人时间的管理颇为得当。 \n\nRewritten Prompt:\n我有效地安排时间，早晨阅读并聆听书籍，且每周定时进行体育锻炼和徒步登山。",
-        "index": 0,
-        "sentence_length": 104,
-        "perplexity": 58.15835189819336
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听书，遵循固定的健身计划每周锻炼，并定时进行爬山活动，我对自己时间的管理颇为得当。",
-        "index": 0,
-        "sentence_length": 50,
-        "perplexity": 104.6513442993164
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排极为出色，坚持每天早晨进行深度阅读和有声书学习，且遵循固定的健身计划，包括每周定期的健身房锻炼及户外徒步活动，不断追求身心平衡发展。 \n\n#Rewritten Prompt#:\n坚持高效的时间规划，每日清晨专注于阅读与听书学习，同时保持每周固定的健身训练和山地徒步活动，以此促进身心双重健康。",
-        "index": 0,
-        "sentence_length": 150,
-        "perplexity": 49.23300552368164
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常自我管理严格，晨起既读书又听书，坚持每周规律锻炼身体，并投身于每周的登山活动。 \n\n或\n\n我对于时间安排得井井有条，早晨就忙着吸收知识，无论是阅读还是聆听。每周健身已成为常态，还不忘投身大自然的怀抱，享受爬山的乐趣。",
-        "index": 0,
-        "sentence_length": 110,
-        "perplexity": 98.63314056396484
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得宜，每日清晨坚持阅读并汲取知识，坚持每周末进行瑜伽和力量训练，且每隔一周必探索新的徒步路线。",
-        "index": 0,
-        "sentence_length": 51,
-        "perplexity": 145.6825714111328
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常自我管理得当，晨起既读书又听书，坚持每周规律性锻炼身体，并定期投身于爬山活动。 \n\n或\n\n我对于时间安排颇有心得，每日清晨都以吸收知识开场，无论是翻阅书页还是聆听有声书。此外，健身已成为我每周的必修课，还不忘抽空去征服山岭。",
-        "index": 0,
-        "sentence_length": 114,
-        "perplexity": 102.29487609863281
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得当，晨起既阅读又聆听书籍，每周健身运动形成良好习惯，同时保持每周攀登山峰的活动。 \n\n或\n\n我对于时间掌控得心应手，每日清晨不是翻书就是听书，健身成了每周的固定节目，还不忘每周末去征服一座高山。",
-        "index": 0,
-        "sentence_length": 104,
-        "perplexity": 100.00706481933594
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得当，晨起既读书又听书，坚持每周规律锻炼身体，同时享受登山的乐趣。 \n\n（注：此处采用了较为正式和详细的语言风格。）",
-        "index": 0,
-        "sentence_length": 64,
-        "perplexity": 153.0279541015625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和听书，对自我时间把控得当；每周坚持健身和爬山，保持运动的习惯。",
-        "index": 0,
-        "sentence_length": 40,
-        "perplexity": 75.52864837646484
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听书，遵循固定的健身计划每周锻炼，同时保持每周爬山活动的习惯。 \n\n或\n\n在时间管理上表现出色，我坚持每天早晨进行阅读和听力练习，并且每周都有规律的运动和爬山安排。",
-        "index": 0,
-        "sentence_length": 91,
-        "perplexity": 61.82304382324219
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，规律性地进行每周的健身与运动，同时还保持每周登山的习惯，对个人时间管理非常得当。",
-        "index": 0,
-        "sentence_length": 54,
-        "perplexity": 86.19786834716797
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得当，晨起既读书又听书，坚持每周规律锻炼身体，同时享受登山的乐趣。 \n\n（采用风格：简洁、正式）",
-        "index": 0,
-        "sentence_length": 54,
-        "perplexity": 269.603271484375
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每天早晨进行阅读和听力练习，遵循固定的健身计划每周锻炼，并确保每周末进行户外徒步活动以贴近自然。 \n\n#Rewritten Prompt#：\n擅长规划个人时间，日复一日坚持早晨阅读与听力训练，严格保持每周的健身习惯，同时享受每周一次的户外登山活动。",
-        "index": 0,
-        "sentence_length": 135,
-        "perplexity": 53.328590393066406
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持晨读听书，对自我时间把控得当；规律地进行每周的健身运动，同时保持每周爬山的习惯。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 79.65263366699219
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力卓越，坚持每日清晨进行阅读与听力学习，遵循固定的健身计划每周锻炼，并持之以恒每周末进行户外徒步探险。 \n\nREWRIITTEN PROMPT:\n拥有出色的自我调控技巧，坚持每日早晨沉侵在书籍与有声读物的海洋中，维持每周规律性的健身训练，且对每周的远足活动持之以恒。",
-        "index": 0,
-        "sentence_length": 138,
-        "perplexity": 64.42646789550781
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持晨读听书，对个人时间进行高效管理，每周固定参与健身运动，同时保持规律的爬山活动。",
-        "index": 0,
-        "sentence_length": 44,
-        "perplexity": 76.36693572998047
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我管理能力出众，坚持每天早晨进行深度学习和听觉吸收，每月定期进行全面的体能训练和户外徒步活动。",
-        "index": 0,
-        "sentence_length": 48,
-        "perplexity": 87.74068450927734
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常自我管理严格，晨起阅读充电，每周规律健身，不忘户外登高探险。",
-        "index": 0,
-        "sentence_length": 32,
-        "perplexity": 316.6150207519531
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "日常自我管理极为出色，晨起既读书又听书，坚持每周规律性锻炼身体，并且定时进行登山活动。 \n\n或\n\n我对于个人时间安排得井井有条，早晨的习惯是阅读和听觉学习，每周健身已成为常态，还有固定的户外爬山计划。",
-        "index": 0,
-        "sentence_length": 100,
-        "perplexity": 115.9565200805664
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地早起阅读和听书，对自我时间把控得当。同时，坚持每周进行健身和爬山活动，保持健康的生活节奏。 \n\nRewritten Prompt:]:\n坚持良好的时间分配，晨起即进行阅读与听力学习。每周都有固定的健身和爬山计划，生活规律而健康。",
-        "index": 0,
-        "sentence_length": 120,
-        "perplexity": 60.917930603027344
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得当，晨起既读书又听书，健身运动每周坚持如常，更是每周必行山野间。",
-        "index": 0,
-        "sentence_length": 39,
-        "perplexity": 226.85340881347656
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间调配得宜，晨起阅读聆听书籍，每周定时健身及远足登山，生活节奏有序。",
-        "index": 0,
-        "sentence_length": 37,
-        "perplexity": 270.2465515136719
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，时间管理得宜；规律地进行每周的健身活动和爬山锻炼。",
-        "index": 0,
-        "sentence_length": 39,
-        "perplexity": 82.9970932006836
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每日早晨进行文学与知识的汲取，每隔一日进行力量与耐力训练，每周末投身于户外徒步探险，以保持身心和谐发展。",
-        "index": 0,
-        "sentence_length": 63,
-        "perplexity": 98.37091064453125
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和听书，有效地管理自己的时间，同时坚持每周进行健身和爬山活动。",
-        "index": 0,
-        "sentence_length": 39,
-        "perplexity": 55.80162048339844
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天坚持早晨阅读和听力练习，我对自己时间的管理颇为得当。此外，我遵循固定的健身计划，每周进行体育锻炼并安排爬山活动。 \n\nRewritten Prompt:\n我有效地安排了自己的时间，每天早起既阅读又听书。同时，我保持着每周规律性的健身和爬山习惯。",
-        "index": 0,
-        "sentence_length": 124,
-        "perplexity": 45.07853317260742
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每日清晨进行阅读和听力学习，每隔一日进行瑜伽放松，每周固定两天进行器械训练，且每逢周末必赴郊外远足探索自然。",
-        "index": 0,
-        "sentence_length": 65,
-        "perplexity": 97.98865509033203
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和听书，早晨开始一天的活动；此外，我还坚持每周进行健身和爬山等运动。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 56.575355529785156
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排极为出色，每日坚持早起进行冥想和知识学习，且遵循固定的健身计划，包括每周两次的力量训练和一次户外远足探险。",
-        "index": 0,
-        "sentence_length": 57,
-        "perplexity": 60.883113861083984
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排能力出色，坚持每天早晨进行文学与知识的摄入，每隔一日进行力量与有氧训练，每周固定攀登高峰，并在此期间坚持进行户外冥想放松。",
-        "index": 0,
-        "sentence_length": 65,
-        "perplexity": 136.3924560546875
+        "index": 0
     },
     {
         "type": "style",
         "evol_prompt": "自我时间掌控出色，每日清晨坚持阅读和听力学习，每周规律性投身健身与运动，同时确保每周户外爬山活动。 \n\n或\n\n我对于时间安排得心应手，晨起既读书又听书，健身运动成了每周的必修课，而且每周还会专门安排时间去爬山锻炼。",
-        "index": 0,
-        "sentence_length": 107,
-        "perplexity": 64.75163269042969
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地早起阅读和听力学习，对个人时间进行有效管理。每周保持固定的健身计划和爬山活动。 \n\nRewritten Prompt (alt. version):\n坚持每天早晨进行阅读和听力练习，有效安排时间管理。此外，每周都有固定的健身和登山活动安排。",
-        "index": 0,
-        "sentence_length": 126,
-        "perplexity": 39.568565368652344
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持晨读与听书，对时间进行高效管理。每周保持固定的健身计划和爬山活动，以保持身体健康。",
-        "index": 0,
-        "sentence_length": 45,
-        "perplexity": 57.96330642700195
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地阅读和聆听书籍，早晨的时间自我管理得当，同时坚持每周进行健身和爬山活动。",
-        "index": 0,
-        "sentence_length": 42,
-        "perplexity": 94.78326416015625
+        "index": 0
     },
     {
         "type": "bread",
         "evol_prompt": "自我安排得极为高效，每日坚持早起进行阅读和听力学习，每隔一日进行力量训练，每周固定进行两次户外徒步活动以强身健体。",
-        "index": 0,
-        "sentence_length": 57,
-        "perplexity": 58.454254150390625
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每日坚持早起阅读和听力学习，时间管理得宜；规律地进行每周的健身活动和爬山锻炼。 \n\norElse\n\n有效地自我管理时间，晨起即进行阅读与听力练习，每周固定参与健身和爬山活动。",
-        "index": 0,
-        "sentence_length": 87,
-        "perplexity": 82.35262298583984
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地早起阅读和聆听书籍，对个人时间进行高效管理。每周坚持进行健身活动和爬山锻炼。 \n\nRewritten Prompt (alt. version):\n坚持每日晨读与听书，时间管理得宜。此外，每周都有计划地进行体育锻炼和登山活动。",
-        "index": 0,
-        "sentence_length": 119,
-        "perplexity": 40.08150863647461
+        "index": 0
     },
     {
         "type": "structure",
         "evol_prompt": "每天规律性地早起阅读和听力学习，同时坚持每周进行健身和爬山活动，我对个人的时间管理非常得当。 \n\nRewritten Prompt:\n我有效地安排时间，坚持每天早晨阅读与听书，并且每周都有固定的健身和爬山计划。",
-        "index": 0,
-        "sentence_length": 105,
-        "perplexity": 39.611202239990234
+        "index": 0
     }
 ]
