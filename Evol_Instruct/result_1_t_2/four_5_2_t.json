@@ -1,0 +1,702 @@
+[
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定推进立场，面临销售困难，我们缺乏足够的销管资源，同时大区也得不到额外的支持。",
+        "index": 0,
+        "sentence_length": 42,
+        "perplexity": 386.2971496582031
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，鉴于销售管理资源捉襟见肘，大区缺乏额外支援的情况下，如何高效利用现有资源实现业绩突破？",
+        "index": 0,
+        "sentence_length": 59,
+        "perplexity": 120.524658203125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们都需坚守立场，共同努力，因为销售本就不易，加之销售管理资源有限，大区无法得到更多的支持。",
+        "index": 0,
+        "sentence_length": 46,
+        "perplexity": 193.78436279296875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，销售任务艰巨，鉴于区域资源配备有限，缺乏额外力量支撑分区拓展。",
+        "index": 0,
+        "sentence_length": 47,
+        "perplexity": 262.5997619628906
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们不仅资源有限，且缺乏额外支持助力大区发展。",
+        "index": 0,
+        "sentence_length": 37,
+        "perplexity": 222.6656036376953
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，我们共同努力，因为销售本身就极具挑战，销售管理资源本就不足，大区更无法得到额外支持。",
+        "index": 0,
+        "sentence_length": 47,
+        "perplexity": 191.41322326660156
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，我们共同努力推进，因为销售本就具挑战性，加之销售管理资源不足，大区亦无法获得额外支持。",
+        "index": 0,
+        "sentence_length": 48,
+        "perplexity": 196.9913330078125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定推进立场，销售任务艰巨，因销售管理资源有限，大区无法获得更多支持资源。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 407.6641540527344
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重困难，我们仍需坚持共同奋进，毕竟在销售行业，资源紧张是常态，尤其对于大区而言，缺乏额外支持的情况下如何优化管理策略更是挑战。",
+        "index": 0,
+        "sentence_length": 66,
+        "perplexity": 109.05616760253906
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们坚守阵地携手共进，毕竟在销售行业困难重重，尤其当销售管理资源捉襟见肘，大区缺乏额外支援的情况下。 \n\n#Rewritten Prompt#:\n在资源紧张的大环境下，我们依旧并肩作战，共克时艰。毕竟在销售领域，尤其是当面对销售管理资源的匮乏，以及大区得不到额外助力的困境时，挑战更是接踵而至。",
+        "index": 0,
+        "sentence_length": 154,
+        "perplexity": 38.70016098022461
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们需同舟共济，鉴于销售管理部门资源捉襟见肘，大区缺乏额外支持，如何有效整合现有资源，提升销售业绩？",
+        "index": 0,
+        "sentence_length": 57,
+        "perplexity": 64.67908477783203
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 129.88235473632812
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们仍需坚守阵线，共渡难关。销售之路充满艰辛，尤其在没有额外资源分配给大区，销管资源又极其有限的情况下。",
+        "index": 0,
+        "sentence_length": 59,
+        "perplexity": 94.73600006103516
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定立场，面对销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 151.7869873046875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重困难，我们坚守岗位共同努力，鉴于销售任务艰巨且区域管理资源捉襟见肘，缺乏额外资源扶持各大销售分区，如何高效利用现有资源成为关键。",
+        "index": 0,
+        "sentence_length": 68,
+        "perplexity": 141.3721160888672
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定推进立场，面对艰难的销售状况，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 195.94284057617188
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们仍需坚守立场，共同努力，毕竟在销售行业，资源本就紧张，对于大区的支持更是捉襟见肘。 \n\n#Rewritten Prompt#:\n在资源紧张的前提下，我们务必保持坚定立场，共渡难关，毕竟在销售战场，尤其是对大区的扶持，我们缺乏充足的资源供应。",
+        "index": 0,
+        "sentence_length": 129,
+        "perplexity": 47.666996002197266
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定推进立场，面对艰难的销售环境，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 161.2874298095703
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售任务艰巨，由于营销资源紧张，大区缺乏额外支持手段。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 169.3836669921875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售任务艰巨，由于销售管理资源捉襟见肘，大区缺乏额外支持手段。",
+        "index": 0,
+        "sentence_length": 47,
+        "perplexity": 140.16905212402344
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们仍需坚守阵线，共渡难关。在销售行业，尤其是区域管理资源稀缺，缺乏额外力量扶持各大区发展的情况下。",
+        "index": 0,
+        "sentence_length": 57,
+        "perplexity": 156.53952026367188
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们都需坚守立场，共同努力克服困难，鉴于销售管理方面的资源有限，大区无法获得额外的支持。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 201.438720703125
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售团队承受压力，缺乏充足的管理资源及对大区的额外扶持。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 196.339111328125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，我们共同努力推进，因为销售本就不易，区域销售管理资源本就有限，无法为大区提供额外的支持。",
+        "index": 0,
+        "sentence_length": 49,
+        "perplexity": 129.8999481201172
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们共同坚守岗位，努力向前。销售任务充满挑战，由于销售管理资源有限，大区无法得到额外的支持。",
+        "index": 0,
+        "sentence_length": 46,
+        "perplexity": 193.13816833496094
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们仍需坚守立场，共同努力，毕竟在销售行业，资源匮乏是常态，尤其对于大区而言，缺乏额外支持更是常态。",
+        "index": 0,
+        "sentence_length": 57,
+        "perplexity": 71.95500946044922
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售任务艰巨，鉴于销售管理资源稀缺，且缺乏额外资金扶持各区域运营。",
+        "index": 0,
+        "sentence_length": 49,
+        "perplexity": 236.92144775390625
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，毕竟销售路上都是挑战重重。销售管理方面资源本就紧张，大区的支持力度也没法再加大了。",
+        "index": 0,
+        "sentence_length": 51,
+        "perplexity": 142.36016845703125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对艰难的销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外的支持。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 113.97825622558594
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力向前冲，毕竟销售之路不易，销售管理资源本就有限，大区的支持力度也无法再加大。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 165.70230102539062
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们仍需坚守阵线，共渡难关。销售之路充满艰辛，尤其在没有额外资源补充的情况下，区域销售管理所需资源更显匮乏。",
+        "index": 0,
+        "sentence_length": 61,
+        "perplexity": 77.61927032470703
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，销售团队面临人手不足，且缺乏额外资源助力区域发展。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 148.26327514648438
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，都知道销售不易，销售管理资源本就有限，大区的支持力度也没法加大。",
+        "index": 0,
+        "sentence_length": 42,
+        "perplexity": 177.0570831298828
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，毕竟销售之路不易，销售管理资源本就有限，大区那边也很难得到额外的支援。",
+        "index": 0,
+        "sentence_length": 45,
+        "perplexity": 121.76437377929688
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们需团结一心共克时艰。销售之路本就不易，加之区域管理资源捉襟见肘，大区的支持力度更是有限。",
+        "index": 0,
+        "sentence_length": 51,
+        "perplexity": 71.3788833618164
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们共同坚守立场，努力向前。销售任务极具挑战，因为销售管理资源本就有限，大区无法得到额外的支持。",
+        "index": 0,
+        "sentence_length": 48,
+        "perplexity": 213.37046813964844
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，在销售管理上资源捉襟见肘，缺乏额外力量支撑各区域拓展。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 198.35145568847656
+    },
+    {
+        "type": "style",
+        "evol_prompt": "保持团结共进，毕竟销售之路不易，销售管理资源本就有限，大区更是缺乏额外支援。",
+        "index": 0,
+        "sentence_length": 38,
+        "perplexity": 376.01904296875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，鉴于销售管理资源不足，且缺乏额外支持助力分区拓展。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 583.1766967773438
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们坚守立场共同努力，鉴于销售管理资源捉襟见肘，且缺乏额外资源扶持各大区域，如何高效利用现有资源成为关键。",
+        "index": 0,
+        "sentence_length": 60,
+        "perplexity": 143.2671661376953
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，我们共同努力，面对销售挑战，由于销售管理资源不足，大区无法得到额外支持。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 178.56015014648438
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们都需坚守立场，共同努力克服困难，鉴于销售管理部门资源有限，大区无法得到额外支持。",
+        "index": 0,
+        "sentence_length": 42,
+        "perplexity": 250.73614501953125
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们需坚守阵线，鉴于营销资源吃紧，且缺乏额外援助支持各大区域拓展。",
+        "index": 0,
+        "sentence_length": 40,
+        "perplexity": 315.37811279296875
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们需携手共进，毕竟销售之路充满艰辛。区域销售管理方面资源本就有限，大区的支持力度自然也无法加大。",
+        "index": 0,
+        "sentence_length": 54,
+        "perplexity": 167.2715301513672
+    },
+    {
+        "type": "style",
+        "evol_prompt": "保持团结共进，毕竟销售之路不易，销售管理资源本就有限，大区的支持力度也无法再加码。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 310.529052734375
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们不仅资源有限，大区的支持也并不充裕。",
+        "index": 0,
+        "sentence_length": 34,
+        "perplexity": 202.08255004882812
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们坚守立场共同努力，鉴于销售管理资源捉襟见肘，且缺乏额外资源为大区提供充足支持。",
+        "index": 0,
+        "sentence_length": 48,
+        "perplexity": 169.86517333984375
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 129.88235473632812
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们需携手共进，毕竟销售之路不易走。资源在销售管理上本就有限，大区的支持力度自然不足。",
+        "index": 0,
+        "sentence_length": 48,
+        "perplexity": 160.18673706054688
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们必须齐心协力向前迈进。毕竟，销售之路充满艰辛，销售管理部门的资源配置本就有限，对大区的支持力度自然也无法进一步增加。 \n\n#Rewritten Prompt#:\n咱们得携手共进，毕竟销售这活儿本就不易，销管那头的资源也是捉襟见肘，大区的支援就别提更多了。",
+        "index": 0,
+        "sentence_length": 134,
+        "perplexity": 71.53363800048828
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，我们共同努力推进，面对销售挑战，由于销售管理资源有限，大区无法获得更多支持。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 249.94590759277344
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，毕竟销售之路不易，销售管理资源本就有限，大区方面也得不到额外的支援。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 141.03672790527344
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同前进，销售任务极具挑战，由于销售管理资源有限，大区无法获得更多支持。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 231.1759490966797
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们坚守阵地携手前行，由于销售管理资源捉襟见肘，大区缺乏额外支持，如何高效利用现有资源成为关键。",
+        "index": 0,
+        "sentence_length": 55,
+        "perplexity": 113.41891479492188
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力向前冲，毕竟销售之路不易走，销售管理资源本就有限，大区那边也很难得到额外支援。",
+        "index": 0,
+        "sentence_length": 45,
+        "perplexity": 141.05812072753906
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结协作，市场竞争激烈，销售团队面临人手不足，且缺乏额外资源助力区域拓展。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 149.3217010498047
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们坚守阵地携手前行，由于销售管理资源捉襟见肘，且缺乏额外资源为大区提供充足支持。 \n\n#Rewritten Prompt#:\n在销售任务充满艰辛的情况下，我们坚持共同进退，鉴于销售管控资源不足，且未能获得更多援助以强化区域销售能力。",
+        "index": 0,
+        "sentence_length": 124,
+        "perplexity": 74.64205169677734
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重困难，我们坚守前线共同奋发，销售之路充满挑战，在营销资源捉襟见肘的情况下，大区缺乏额外的支援设施。",
+        "index": 0,
+        "sentence_length": 53,
+        "perplexity": 177.81008911132812
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们需团结向前，毕竟销售之路不易走。销售管理方面资源本就有限，大区的支持力度也无法进一步加大。",
+        "index": 0,
+        "sentence_length": 52,
+        "perplexity": 294.1392822265625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同向前推进，因为销售本身就极具挑战，缺乏销售管理资源，大区也得不到额外的支持。",
+        "index": 0,
+        "sentence_length": 45,
+        "perplexity": 283.7505798339844
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们坚守信念，共同努力，毕竟销售之路充满艰辛，尤其在没有额外资源助力的情况下，区域销售管理所需资源更显匮乏。 \n\n#Rewritten Prompt#:\n在资源紧缺的现状下，我们务必保持决心，携手并进，毕竟在缺乏额外支持的情况下，大区销售管理的困境尤为显著。",
+        "index": 0,
+        "sentence_length": 136,
+        "perplexity": 55.11383819580078
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重困难，我们仍需坚守阵线，毕竟在销售行业，尤其是区域管理资源稀缺、缺乏额外支援的情况下，大区的拓展和维护挑战重重。 \n\n#Rewritten Prompt#:\n在资源紧张与支援不足的双重压力下，我们仍需携手并进，毕竟在销售战场上，尤其是面对大区的深耕与持续发展，困难与挑战并行。",
+        "index": 0,
+        "sentence_length": 142,
+        "perplexity": 53.93992614746094
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，销售团队压力重重，在缺乏充足的大区支持资源及销管资源下，如何有效优化现有资源，提升销售业绩？",
+        "index": 0,
+        "sentence_length": 62,
+        "perplexity": 105.15330505371094
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，毕竟销售之路不易，销售管理资源本就有限，大区的支持力度也无法再加大。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 170.3347930908203
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同前进，销售任务极具挑战，由于销售管理资源有限，大区无法获得额外支持。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 190.36192321777344
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 129.88235473632812
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重困难，我们坚守岗位携手共进，毕竟销售任务充满挑战，在销售管理资源捉襟见肘的情况下，大区缺乏额外的支援和资源注入。 \n\n#Rewritten Prompt#:\n在资源紧缺的不利条件下，我们仍需并肩作战，努力克服销售领域的种种难关，尤其在没有额外资助的情况下，大区销售管理面临严峻考验。",
+        "index": 0,
+        "sentence_length": 145,
+        "perplexity": 56.55537033081055
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 129.88235473632812
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，销售任务艰巨，鉴于销售管理资源不足，且缺乏额外支持助力各大区发展。",
+        "index": 0,
+        "sentence_length": 49,
+        "perplexity": 234.38877868652344
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们坚守立场共同努力，鉴于销售管理资源稀缺，且缺乏额外资源为大区提供强大后盾，我们应如何高效利用现有资源，实现区域销售目标？",
+        "index": 0,
+        "sentence_length": 69,
+        "perplexity": 107.47322845458984
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对艰难的销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 42,
+        "perplexity": 116.7691650390625
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售任务艰巨，鉴于销售管理资源有限，且缺乏额外资源扶持各区域销售团队。",
+        "index": 0,
+        "sentence_length": 51,
+        "perplexity": 130.13795471191406
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚守岗位，面对销售挑战，我们既缺乏销售管理资源，也无法为大区提供额外支持。",
+        "index": 0,
+        "sentence_length": 39,
+        "perplexity": 129.88235473632812
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定推进立场，面临销售挑战，我们缺乏足够的销管资源，大区亦无法获得更多支持。",
+        "index": 0,
+        "sentence_length": 40,
+        "perplexity": 499.8620300292969
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同向前推进，毕竟销售任务艰巨，销售管理资源本就有限，大区更得不到额外的支持。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 201.93612670898438
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持统一战线，销售任务艰巨，由于销售管理资源有限，大区无法获得额外支持。",
+        "index": 0,
+        "sentence_length": 36,
+        "perplexity": 163.25604248046875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售任务艰巨，缺乏充足的销售管理资源，且大区支援亦受限制。",
+        "index": 0,
+        "sentence_length": 45,
+        "perplexity": 164.6367645263672
+    },
+    {
+        "type": "style",
+        "evol_prompt": "保持团结共进，毕竟销售之路充满挑战，销售管理资源本就有限，大区得不到额外支持也是常态。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 260.2228088378906
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对困境团结一心，市场竞争激烈，销售任务艰巨，鉴于销售管理资源稀缺，且缺乏额外力量扶持各大区域发展。",
+        "index": 0,
+        "sentence_length": 50,
+        "perplexity": 235.10897827148438
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，销售任务艰巨，在缺乏充足的销售管理资源且未获得额外大区支持的情况下，我们如何优化现有资源，实现业绩突破？",
+        "index": 0,
+        "sentence_length": 68,
+        "perplexity": 77.92060852050781
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重挑战，我们坚守信念，共谋进展，毕竟在销售领域，大家都面临着从管理到资源分配的多重压力，尤其在没有额外力量扶持各大区域的情况下。 \n\n#Rewritten Prompt#:\n在资源紧张的情况下，我们同心协力，深知销售之路充满艰辛，尤其是缺乏额外助力对大区进行有效支持的情况下，我们仍需坚持并力求突破。",
+        "index": 0,
+        "sentence_length": 153,
+        "perplexity": 72.44159698486328
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们需携手共进，毕竟销售之路充满艰辛。由于销售管理资源本就有限，大区得不到额外的支持也是情理之中。",
+        "index": 0,
+        "sentence_length": 54,
+        "perplexity": 93.75658416748047
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对重重困难，我们仍需坚守立场，共同努力推进。在销售任务艰巨的情况下，区域管理资源捉襟见肘，缺乏额外支持已成为常态。",
+        "index": 0,
+        "sentence_length": 58,
+        "perplexity": 121.41065216064453
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同向前推进，因为销售本就不易，销售管理资源本就有限，大区更得不到额外的支持。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 193.630859375
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同推进，销售任务极具挑战，由于销售管理资源有限，大区无法获得额外支持。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 169.30210876464844
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，鉴于销售管理资源不足，且缺乏额外资源扶持各大区域拓展。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 371.0362854003906
+    },
+    {
+        "type": "style",
+        "evol_prompt": "面对挑战，我们需携手共进，毕竟销售之路充满艰辛。由于销售管理资源捉襟见肘，大区缺乏额外支持，我们更应齐心协力。",
+        "index": 0,
+        "sentence_length": 55,
+        "perplexity": 67.96064758300781
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们都需坚守岗位，共同努力，因为销售任务极具挑战，销售管理资源本就有限，大区更得不到额外的支持。",
+        "index": 0,
+        "sentence_length": 48,
+        "perplexity": 193.8186492919922
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们都需坚守立场，共同努力前进。销售任务的挑战重重，由于销售管理资源有限，大区无法获得额外的支持资源。",
+        "index": 0,
+        "sentence_length": 51,
+        "perplexity": 190.86656188964844
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "共同坚定立场，推进工作不易，销售管理面临的资源有限，大区亦无法得到额外支持。",
+        "index": 0,
+        "sentence_length": 38,
+        "perplexity": 374.65008544921875
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，都知道销售不易，销售管理资源本就有限，大区的支持力度也没法再大了。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 144.78988647460938
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，毕竟销售之路不易，销售管理资源本就有限，大区的支持力度也无法再加大。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 170.3347930908203
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "保持一致，共同向前推进，因为销售本身就极具挑战，销售管理资源本就不足，大区更得不到额外的支持。",
+        "index": 0,
+        "sentence_length": 47,
+        "perplexity": 211.2051544189453
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "我们都需坚守岗位，共同努力，因为销售本就不易，加之销售管理资源不足，大区亦无法得到额外支持。",
+        "index": 0,
+        "sentence_length": 46,
+        "perplexity": 194.0218048095703
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对销售挑战，我们坚守阵地携手前行，鉴于销售管理资源捉襟见肘，大区缺乏额外支持，如何高效利用现有资源成为关键。",
+        "index": 0,
+        "sentence_length": 55,
+        "perplexity": 132.02783203125
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力加油干，毕竟销售之路不易，销售管理资源本就有限，大区的支持力度也无法再加大。",
+        "index": 0,
+        "sentence_length": 44,
+        "perplexity": 170.3347930908203
+    },
+    {
+        "type": "style",
+        "evol_prompt": "保持团结共进，毕竟销售之路不易，销售管理资源本就有限，大区更得不到额外援助。",
+        "index": 0,
+        "sentence_length": 38,
+        "perplexity": 336.31573486328125
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，销售任务艰巨，鉴于营销资源紧张，大区缺乏额外支持手段。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 244.6751251220703
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "面对挑战团结一心，市场竞争激烈，鉴于销售管理资源不足，且缺乏额外资金扶持各大区域。",
+        "index": 0,
+        "sentence_length": 41,
+        "perplexity": 456.1824645996094
+    },
+    {
+        "type": "style",
+        "evol_prompt": "咱们齐心协力向前冲，毕竟销售之路不易，销售管理资源本就有限，大区的支持力度也无法加大。",
+        "index": 0,
+        "sentence_length": 43,
+        "perplexity": 189.60946655273438
+    }
+]

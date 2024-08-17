@@ -1,0 +1,702 @@
+[
+    {
+        "type": "bread",
+        "evol_prompt": "·+责任+用户信任-助力匠心人才展露头角",
+        "index": 1,
+        "sentence_length": 20,
+        "perplexity": 1031.00927734375
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜能：我们已经培养并输出众多人才。目前阶段，有两位同事正处于对接中，他们与公司进行了三年的深入交流，是粤海KA的关键人物，同时也是潜在的继任者，有望向大区域总经理职位进发。",
+        "index": 0,
+        "sentence_length": 90,
+        "perplexity": 126.55032348632812
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：深度培养潜力人才，已有两位直接下属在三年交流合作中成长，担任粤海区域的关键角色，未来有望晋升为区域高级管理层。",
+        "index": 0,
+        "sentence_length": 63,
+        "perplexity": 279.85833740234375
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·通过诚信服务，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 89.83013916015625
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+信赖+用户共赏 - 助匠心发光发热",
+        "index": 1,
+        "sentence_length": 19,
+        "perplexity": 2737.737060546875
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前有两位正在接棒，与我们公司携手走过了三年的交流与合作，他们是粤海KA的关键人物，未来有望成长为区域高层领导者。",
+        "index": 0,
+        "sentence_length": 81,
+        "perplexity": 141.63465881347656
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜力：已有多位优秀人才由此输出。目前阶段，有两位同事正处于对接中，他们与公司进行了三年的深入交流，来自粤海KA部门，他们是潜在继任者，有望向大区总部的方向发展。",
+        "index": 0,
+        "sentence_length": 84,
+        "perplexity": 171.2554931640625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·通过诚信服务，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 140.37164306640625
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与培养，如今两位精英正接棒关键岗位，作为粤海区域的关键人物，他们的成长路径预示着未来有望晋升为区域总经理，持续为企业输送高层管理人才。",
+        "index": 0,
+        "sentence_length": 81,
+        "perplexity": 129.35336303710938
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "培育杰出人才：我们输送了众多人才，目前正与两位人员进行对接，他们已在粤海KA岗位上与我们合作了三年，我们注重继任者的培养，预计他们将来有望晋升至大区总职位。",
+        "index": 0,
+        "sentence_length": 78,
+        "perplexity": 111.22615051269531
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与合作，两位精英已在关键岗位对接，作为粤海KA的重点培养对象，他们具备向区域总经理跃进的潜力与实力。",
+        "index": 0,
+        "sentence_length": 64,
+        "perplexity": 297.7688903808594
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·致力于诚信，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 26,
+        "perplexity": 74.63176727294922
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+责任+用户体验+助力匠心独运者闪耀光芒·",
+        "index": 1,
+        "sentence_length": 22,
+        "perplexity": 1197.3211669921875
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "让才华横溢的人才发光：我们已经培养并输出众多人才。目前，两位同事正处于对接阶段，他们与公司进行了三年的深入交流，是粤海KA的关键人物。我们致力于培养他们的继任者，展望未来，他们有望晋升至大区总的角色。",
+        "index": 0,
+        "sentence_length": 100,
+        "perplexity": 107.86377716064453
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：精心培育，已有数位优秀人才输出至各地。目前两位核心成员正与我们深度对接，经过三年的密切交流，他们来自粤海的关键客户领域，被视为潜在的继任者，未来有望晋升至区域总部高层。",
+        "index": 0,
+        "sentence_length": 92,
+        "perplexity": 129.0562744140625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜力：我们已经培养并输出多名人才。目前阶段，有两位正在接替关键岗位，他们与公司进行了三年的深入交流，源自粤海KA部门，这些继任者有望向大区域总经理的职位迈进。",
+        "index": 0,
+        "sentence_length": 83,
+        "perplexity": 176.97756958007812
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "#: \r\n·坚守诚信，助力消费者，助力匠心人才展现光芒#",
+        "index": 1,
+        "sentence_length": 28,
+        "perplexity": 5304.74951171875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：精心培育的精英已陆续崭露头角。目前两位核心人才正与我们深入对接，历经三年磨砺，作为粤海KA的关键人物，他们的成长轨迹预示着未来有望晋升至区域总经理的重要位置。",
+        "index": 0,
+        "sentence_length": 87,
+        "perplexity": 106.19519805908203
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的牛人尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 63.78731155395508
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜能：已有多位人才由此输出。目前阶段，两位人才正与我们深入交流，他们来自粤海KA，是我们重点培养的接班人，未来有望晋升至大区总。",
+        "index": 0,
+        "sentence_length": 68,
+        "perplexity": 144.1060028076172
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的牛人尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 63.78731155395508
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前，有两位同事正紧密合作，他们与我们共事三年，曾是粤海KA的关键人物，我们对他们的继任者寄予厚望，预计他们将来能晋升为大区总经理。",
+        "index": 0,
+        "sentence_length": 90,
+        "perplexity": 62.344364166259766
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让才华横溢的人才发光发热：我们已经培养并输出众多人才。目前，有两位精英正与我们紧密合作，他们与我们团队已进行了三年的深入交流，分别是粤海KA的关键人物，以及一位潜力继承者，有望向大区域总经理的职位迈进。",
+        "index": 0,
+        "sentence_length": 101,
+        "perplexity": 112.4825210571289
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+诚信+用户权益-助力匠心独运者展现风采·",
+        "index": 1,
+        "sentence_length": 22,
+        "perplexity": 1114.7618408203125
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与合作，深度培育出的两位精英已成功对接要职，作为粤海区域的关键人物，他们具备向区域总经理跃进的潜力与资质。",
+        "index": 0,
+        "sentence_length": 67,
+        "perplexity": 233.98731994628906
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "培育卓越人才：已有多位人才由此输出。目前阶段，有两位同事正与我们深入交流，他们是粤海KA的关键人物，我们着重于培养其成为潜在的分区总经理继任者，此过程已持续三年。",
+        "index": 0,
+        "sentence_length": 81,
+        "perplexity": 202.0019073486328
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+信赖+用户共赏 - 助匠心发光发热",
+        "index": 1,
+        "sentence_length": 19,
+        "perplexity": 2737.737060546875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与培养，目前两位核心成员正紧密合作，作为粤海区域的关键人物，他们在继任计划中扮演重要角色，有望在不久的将来晋升为区域高层领导。",
+        "index": 0,
+        "sentence_length": 77,
+        "perplexity": 83.05794525146484
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与培养，目前已有两名精英直接对接要职，曾在粤海KA区域深化经验，他们的成长轨迹预示着未来有望晋升至区域总部高层。",
+        "index": 0,
+        "sentence_length": 70,
+        "perplexity": 267.2791442871094
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让才华横溢的人才大展身手：我们已经培养了不少人才，其中两位正与我们深入对接，他们与粤海KA的合作已长达三年，未来我们有计划将他们培养成区域高层管理者。",
+        "index": 0,
+        "sentence_length": 75,
+        "perplexity": 78.2734146118164
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜力：我们已培养多名人才输出。目前阶段，两位同事正处于对接中，他们与公司进行了三年的深入交流，粤海KA项目的继任者计划，旨在培养其成为未来大区总部的潜在领导者。",
+        "index": 0,
+        "sentence_length": 84,
+        "perplexity": 199.0861053466797
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+诚信+用户权益-助力匠心人才展现光芒",
+        "index": 1,
+        "sentence_length": 20,
+        "perplexity": 3904.57470703125
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的牛人尽展风采。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 57.62656784057617
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+诚信+用户权益-助力匠心独运者展现风采·",
+        "index": 1,
+        "sentence_length": 22,
+        "perplexity": 1114.7618408203125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 67.59321594238281
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与合作，两位精英已在关键岗位对接，凭借粤海KA的经验积累，未来有望培养成为区域高层领导的接班人。",
+        "index": 0,
+        "sentence_length": 62,
+        "perplexity": 288.6790771484375
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前有两位正在与我们深入交流，他们分别是粤海KA的关键人物，我们正致力于培养他们的接班人，预计将来他们能向大区总经理的职位迈进。",
+        "index": 0,
+        "sentence_length": 88,
+        "perplexity": 89.48299407958984
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养了不少人才，输送至各地。目前有两位精英正与我们紧密合作，他们与粤海KA的合作已长达三年，我们正着力培养他们成为未来的大区总经理接班人。",
+        "index": 0,
+        "sentence_length": 83,
+        "perplexity": 94.6042709350586
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+责任+用户信任-助力匠心人才展现光芒",
+        "index": 1,
+        "sentence_length": 20,
+        "perplexity": 4929.15576171875
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "培养杰出人才：我们输送了众多人才，现有两位直接对接，他们与公司交流已三年，例如粤海KA的继任者培训，未来有望晋升至大区总。",
+        "index": 0,
+        "sentence_length": 61,
+        "perplexity": 247.0591583251953
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "让才华横溢的人才发光：我们已经培养并输出众多人才。目前阶段，有两位同事正与我们深入交流，他们是粤海KA的关键人物，我们正致力于培养他们的继任者，预计将来他们能够晋升至大区总的管理岗位。",
+        "index": 0,
+        "sentence_length": 92,
+        "perplexity": 108.90593719482422
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·以诚信为本，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 26,
+        "perplexity": 75.79830169677734
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为先，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 58.15127944946289
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·坚守诚信原则，助力消费者权益，促进杰出人才自我展现。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 367.7987976074219
+    },
+    {
+        "type": "style",
+        "evol_prompt": "激发潜能：已助力多名人才绽放光彩。目前阶段，两位精英正与我们深度对接，历经三年的交流与培养，他们来自粤海KA，具备成为未来大区总的发展潜力。",
+        "index": 0,
+        "sentence_length": 70,
+        "perplexity": 243.9383087158203
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：精心培育多位潜力股，现有两位精英正深入对接，与我们保持三年以上的密切交流，专注于粤海区域的关键客户管理，他们的成长轨迹预示着未来有望晋升为区域高级管理层的接班人。",
+        "index": 0,
+        "sentence_length": 89,
+        "perplexity": 156.5377197265625
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才大展拳脚：我们已经培养并输出多名人才。目前有两位精英正与我们密切合作，他们与粤海KA的合作已长达三年，未来有望晋升为区域总经理。",
+        "index": 0,
+        "sentence_length": 69,
+        "perplexity": 98.46354675292969
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·以诚信为本，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 26,
+        "perplexity": 75.79830169677734
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜力：我们培养的人才广受欢迎，已有两人与我们深度合作三年，负责粤海KA事务，他们是未来的大区总接班人。",
+        "index": 0,
+        "sentence_length": 55,
+        "perplexity": 257.7510681152344
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：深度培养潜力人才，现有两位直接下属正在接受针对性指导，他们经过三年的紧密沟通与实战锻炼，作为粤海区域的关键人才，未来有望晋升为区域高级管理层的接班人。",
+        "index": 0,
+        "sentence_length": 83,
+        "perplexity": 130.21568298339844
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前，有两位精英与我们紧密合作了三年，他们来自粤海的KA部门，我们正着力培养他们成为未来的大区总经理接班人。",
+        "index": 0,
+        "sentence_length": 78,
+        "perplexity": 101.9205551147461
+    },
+    {
+        "type": "style",
+        "evol_prompt": "激发潜能：助力人才辈出，至今已有两人直接与我们深度合作，历经三年的交流与打磨，他们是粤海KA的关键人物，也是潜在的大区总经理候选人。",
+        "index": 0,
+        "sentence_length": 66,
+        "perplexity": 234.4319305419922
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+诚信+用户权益-助力匠心独运人才展现光芒",
+        "index": 1,
+        "sentence_length": 22,
+        "perplexity": 2023.7801513671875
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前有两个核心成员正与我们紧密合作，他们与粤海KA的合作已长达三年，我们有计划地将他们培养成未来的大区总。",
+        "index": 0,
+        "sentence_length": 77,
+        "perplexity": 103.64550018310547
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与培育，两位高潜力人才已成功对接要职， KA领域的粤海项目经验丰富。预见其在区域高层管理岗位上的进一步发展潜力。",
+        "index": 0,
+        "sentence_length": 70,
+        "perplexity": 469.32867431640625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "激发人才潜能：我们已经培养并输出多名人才。目前阶段，有两位同事正处于对接中，他们与公司进行了三年的深入交流，其中粤海KA的关键人物，我们对继任者的培养计划是，他们有望晋升至大区域总经理职位。",
+        "index": 0,
+        "sentence_length": 95,
+        "perplexity": 139.19189453125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "让才华横溢的人才发光：我们培养的众多人才中，已有两人正在对接重要岗位。他们与公司携手走过了三年的交流历程，来自粤海KA区的他们，是潜在的继任者，将来有望晋升为大区总经理。",
+        "index": 0,
+        "sentence_length": 85,
+        "perplexity": 106.98814392089844
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的牛人尽情展现。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 70.99215698242188
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前，有两位正在接棒，他们与公司进行了三年的深入交流，是粤海KA的关键人物，未来有望晋升为区域总经理。",
+        "index": 0,
+        "sentence_length": 75,
+        "perplexity": 103.38330078125
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前有两位精英与我们紧密合作，他们经过三年的深入交流，来自粤海的KA，我们正着力培养他们成为未来的大区总经理接班人。",
+        "index": 0,
+        "sentence_length": 82,
+        "perplexity": 98.08678436279297
+    },
+    {
+        "type": "style",
+        "evol_prompt": "培育精英，让才华横溢：我们已成功培养多员干将。目前，两位人才正紧密合作，他们已与我们深度交流三年之久，作为粤海KA的关键人物，他们的接班人计划已铺就道路，未来有望晋升至大区总。",
+        "index": 0,
+        "sentence_length": 88,
+        "perplexity": 96.12890625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "培育杰出人才：我们已经培养并输出多名人才。目前阶段，有两位同事正与我们深入交流，他们是粤海KA的关键人物，我们正着力培养他们的继任者，预期他们将来有望晋升为大区总经理。",
+        "index": 0,
+        "sentence_length": 84,
+        "perplexity": 90.90714263916016
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "培养杰出人才：我们已助力多人成长腾飞。目前，两位人才正与我们紧密合作，历经三年的交流与培养，他们来自粤海KA，有望成为未来大区总部的接班人。",
+        "index": 0,
+        "sentence_length": 70,
+        "perplexity": 117.17974853515625
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与培养，如今两位精英正紧密合作，以粤海KA的经验为基础，未来有望成为区域高层领导的接班人。",
+        "index": 0,
+        "sentence_length": 59,
+        "perplexity": 202.12484741210938
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：精心培育的英才纷纷崭露头角。目前两位精英正与我们紧密合作，经过三年的深度交流与锻炼，他们来自粤海的关键客户管理领域，有望成为未来大区总经理的接班人。",
+        "index": 0,
+        "sentence_length": 82,
+        "perplexity": 101.29158782958984
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 48.092994689941406
+    },
+    {
+        "type": "style",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的牛人尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 63.78731155395508
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "· 以诚信为本，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 67.59321594238281
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与合作，目前已成功培养出两位潜能无限的人才，在粤海KA领域独当一面。展望未来，他们有望在更高层次的大区域管理岗位上绽放异彩。",
+        "index": 0,
+        "sentence_length": 76,
+        "perplexity": 116.59852600097656
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让才华横溢的人才发光发热：我们已经培养了不少杰出人才，送往各地。目前，有两位精英与我们紧密合作，他们经过三年的磨砺，已经成为粤海KA的得力干将。展望未来，他们有望晋升为大区总，成为新一代的接班人。",
+        "index": 0,
+        "sentence_length": 98,
+        "perplexity": 46.905067443847656
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与培养，已有两位高潜力人才在我们指导下逐步对接要职，如今在粤海KA岗位上表现卓越。预见到他们的潜能，下一步重点塑造其为大区总经理的接班人。",
+        "index": 0,
+        "sentence_length": 83,
+        "perplexity": 217.4170379638672
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与合作，两位核心成员在我们指导下逐步成长，作为粤海区域的关键人物，他们在继任计划中崭露头角，有望成为区域高层领导的接班人。",
+        "index": 0,
+        "sentence_length": 75,
+        "perplexity": 74.48369598388672
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "让才华横溢的人才脱颖而出：我们已经培养并输出众多人才。目前，有两位正在与我们进行深入的三年期交流，他们是粤海KA的关键人物，我们正着力培养他们的继任者，预计他们将来有望晋升至大区总的位置。",
+        "index": 0,
+        "sentence_length": 94,
+        "perplexity": 101.84181213378906
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·通过诚信服务，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 140.37164306640625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "赋予杰出人才舞台：我们已经培养并输出多名人才。目前阶段，有两位同事正与我们深入交流，他们是粤海KA的关键人物，我们正着力培养他们的继任者，预期他们将来有望晋升为大区总经理。",
+        "index": 0,
+        "sentence_length": 86,
+        "perplexity": 112.90441131591797
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·通过诚信服务，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 27,
+        "perplexity": 140.37164306640625
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·以诚信为本，助力消费者，让才华横溢的人才大放异彩。",
+        "index": 1,
+        "sentence_length": 26,
+        "perplexity": 51.735679626464844
+    },
+    {
+        "type": "style",
+        "evol_prompt": "让杰出人才发光发热：我们已经培养并输出多名人才。目前有两个同事正紧密合作，他们与我们有着三年的深入交流经验，分别是粤海KA的关键人物，我们的培养目标是他们能成为未来的大区总经理。",
+        "index": 0,
+        "sentence_length": 89,
+        "perplexity": 145.9086456298828
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+责任+用户信任-助力匠心人才展现光芒",
+        "index": 1,
+        "sentence_length": 20,
+        "perplexity": 4929.15576171875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+责任+用户体验+助力匠心独运者闪耀光芒·",
+        "index": 1,
+        "sentence_length": 22,
+        "perplexity": 1197.3211669921875
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "·+信赖+用户共赏 - 助匠心闪耀",
+        "index": 1,
+        "sentence_length": 17,
+        "perplexity": 3497.428955078125
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年交流与合作，目前已有两名精英在我们指导下对接要务，作为粤海区域的关键人物，他们承前启后，未来有望晋升为区域高层管理者。",
+        "index": 0,
+        "sentence_length": 71,
+        "perplexity": 147.86422729492188
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "让杰出人才发光：历经多年磨砺，已有众多人才由此输出。现今两位精英正与我们深度对接，自粤海KA项目起步，经过三年交流合作，他们将成为潜在的区域总经理继任者，为未来的区域领导力培养打下坚实基础。",
+        "index": 0,
+        "sentence_length": 95,
+        "perplexity": 175.30047607421875
+    },
+    {
+        "type": "style",
+        "evol_prompt": "激发潜能：已助力众多人才绽放光彩。目前阶段，两位精英与我们紧密合作，经过三年的深入交流，他们来自粤海KA，我们有计划地将他们培养成未来的大区总经理接班人。",
+        "index": 0,
+        "sentence_length": 77,
+        "perplexity": 141.14923095703125
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "·致力于诚信，助力消费者，让才华横溢的人才尽显光芒。",
+        "index": 1,
+        "sentence_length": 26,
+        "perplexity": 113.62104034423828
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外业务研讨，前往海尔进行深入交流。",
+        "index": 2,
+        "sentence_length": 20,
+        "perplexity": 479.4455261230469,
+        "diversity": 0.6953595280647278
+    },
+    {
+        "type": "style",
+        "evol_prompt": "大区拓展是A总的战略重点，我们以粤海项目为试点，积极推进。接下来，我计划在3月份访问昆明分公司，与闽赣区域进行交流学习。此外，每月至少安排一次赴清远工厂的考察，不仅是为了推动组织变革，也会邀请他们共同参与我们的重大活动。",
+        "index": 0,
+        "sentence_length": 110,
+        "perplexity": 102.4148941040039,
+        "diversity": 0.8902087211608887
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，本次我访问了美的集团进行交流。 \n\n#Rewritten Prompt#:\n前往外部进行了一番交流，这次的目的地是美的公司。",
+        "index": 2,
+        "sentence_length": 73,
+        "perplexity": 66.14704895019531,
+        "diversity": 0.6969916224479675
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，携手客户共同前往昆明进行实地研修。",
+        "index": 1,
+        "sentence_length": 29,
+        "perplexity": 213.88194274902344,
+        "diversity": 0.7848350405693054
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期与华北区域进行互动，携手客户赴西安进行实地考察学习。",
+        "index": 1,
+        "sentence_length": 28,
+        "perplexity": 256.1013488769531,
+        "diversity": 0.7628883123397827
+    },
+    {
+        "type": "style",
+        "evol_prompt": "在大区域范围内，A总致力于整合所有资源，以粤海地区作为试点项目推动点。在区域级别，我们计划与闽赣地区合作，3月份将前往昆明分公司实地考察学习。同时，确保每月至少访问清远工厂一次，参与组织改革及重大活动的策划，并邀请他们共同参与。 \n\n#Rewritten Prompt#:\nA总正全力把资源集中到区域开发，以粤海作为实验田。接下来三个月，我们安排了与闽赣地区的交流，并在三月份深入昆明分公司交流经验。至于清远基地，我们定下了每月至少拜访一次的原则，不仅要共同推进改革，大型活动也少不了他们的身影。",
+        "index": 0,
+        "sentence_length": 248,
+        "perplexity": 75.61956787109375,
+        "diversity": 0.6379179954528809
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "前往跨国公司进行研讨，前往西门子总部进行深度交流。",
+        "index": 2,
+        "sentence_length": 25,
+        "perplexity": 85.19205474853516,
+        "diversity": 0.6842043995857239
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总监积极调配多方资源，确保重点项目在琶洲地区的顺利启动。在区域协同方面，定期与湘鄂区域交流经验，计划于四月赴贵阳分公司进行实地考察与学习。同时，每月至少安排一次赴河源生产基地的访问，深化组织结构改革，并确保重大活动有他们的积极参与。",
+        "index": 0,
+        "sentence_length": 118,
+        "perplexity": 115.18099975585938,
+        "diversity": 0.8090149164199829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加外部研讨会，赴格力进行了专业互动交流。",
+        "index": 2,
+        "sentence_length": 21,
+        "perplexity": 730.1731567382812,
+        "diversity": 0.7971470355987549
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总监致力于整合各类资源，在华东区域开展试点工程，以苏州作为创新驱动核心。在区域级别，定期与苏浙沪等地进行交流合作，计划于4月赴重庆分公司实地考察学习。每月至少一次深入江阴生产基地，推动企业内部改革，同时确保重要活动及大型会议中他们的积极参与。",
+        "index": 0,
+        "sentence_length": 123,
+        "perplexity": 137.048095703125,
+        "diversity": 0.7795917987823486
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "进行了外部交流，具体是前往美的集团进行了交流。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 199.2532501220703,
+        "diversity": 0.9583256244659424
+    },
+    {
+        "type": "style",
+        "evol_prompt": "在大区域范围内，A总致力于整合所有资源，以粤海地区作为试点项目推动点。在区域层面，我们计划与闽赣地区合作，并计划在三月份访问昆明分公司进行交流学习。同时，确保每个月至少一次赴清远工厂进行考察，参与组织变革及重大活动的开展，并邀请他们一同参与。 \n\n#Rewritten Prompt#:\nA总正全力把资源集中到区域开发，以粤海作为先行试验田。区域合作方面，我们定于三月份深入昆明分公司进行实地考察与学习。此外，每月定访清远生产基地，共同推进组织改革，并邀请他们加入我们的各项大型活动。",
+        "index": 0,
+        "sentence_length": 242,
+        "perplexity": 56.74662399291992,
+        "diversity": 0.6608667969703674
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总经理致力于整合各类资源，重点推进在粤海地区的试点项目。在区域级别，定期与闽赣地区交流，计划于四月赴昆明分公司深入调研学习。每月至少安排一次访问清远生产基地，推动组织架构优化，并确保清远团队在重大活动中占有重要参与份额。",
+        "index": 0,
+        "sentence_length": 112,
+        "perplexity": 157.884521484375,
+        "diversity": 0.8359019160270691
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "云南工厂的建设得益于A总的积极推动，这方面表现极为出色。 \n\n#Rewritten Prompt#:\nA总的大力协同使得云南工厂建设在各方面都表现得极为优秀。",
+        "index": 3,
+        "sentence_length": 79,
+        "perplexity": 189.19834899902344,
+        "diversity": 0.8014219999313354
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "前往美的公司进行了外部交流。",
+        "index": 2,
+        "sentence_length": 14,
+        "perplexity": 920.8927612304688,
+        "diversity": 0.7967744469642639
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "进行了外部交流，具体是前往美的集团进行了交流。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 199.2532501220703,
+        "diversity": 0.9583256244659424
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "大区的资源由A总全力争取，以粤海为试点推进项目。在区域层面，我计划三月份访问昆明分公司，与闽赣地区进行交流学习。同时，确保每月至少一次赴清远工厂，参与组织变革，并邀请他们共同参加大型活动。",
+        "index": 0,
+        "sentence_length": 94,
+        "perplexity": 167.31077575683594,
+        "diversity": 0.9253113865852356
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外业务研讨会，赴德国知名企业进行专业交流。",
+        "index": 2,
+        "sentence_length": 24,
+        "perplexity": 346.925537109375,
+        "diversity": 0.7028104662895203
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "大区的资源争取由A总亲自牵头，以粤海为试点推进项目。同时，计划在3月份对位于闽赣的大区进行考察学习，并访问昆明分公司。每月至少一次，我会前往清远工厂进行组织变革的跟进工作，并邀请他们参与重大活动。",
+        "index": 0,
+        "sentence_length": 98,
+        "perplexity": 205.7325897216797,
+        "diversity": 0.9054380059242249
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加国际行业研讨会，赴德国博世公司进行深入的技术交流与探讨。",
+        "index": 2,
+        "sentence_length": 30,
+        "perplexity": 59.80842208862305,
+        "diversity": 0.6619153022766113
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行沟通，此次选择了美的集团进行交流。 \n\n#Rewritten Prompt#:\n前往外部进行互动，特地拜访了美的公司进行对话。",
+        "index": 2,
+        "sentence_length": 69,
+        "perplexity": 91.96298217773438,
+        "diversity": 0.7263240814208984
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外行业研讨会，赴德国知名家电品牌博世进行深入交流。",
+        "index": 2,
+        "sentence_length": 28,
+        "perplexity": 136.72128295898438,
+        "diversity": 0.7190853357315063
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "前往跨国企业进行研讨，前往三星电子进行深度交流。",
+        "index": 2,
+        "sentence_length": 24,
+        "perplexity": 194.43283081054688,
+        "diversity": 0.7165808081626892
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南工厂的成功典范，得益于A总的鼎力相助与全方位协作，共同促成了该生产基地的落成。 \n\n('#Created Prompt#'已根据要求重新编写，避免了使用原给定的关键词。)",
+        "index": 3,
+        "sentence_length": 87,
+        "perplexity": 242.6925811767578,
+        "diversity": 0.5935133099555969
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "云南的工厂建设得益于A总的积极推动，这一方面的表现极为出色。 \n\n#Rewritten Prompt#:\n由A总大力协作下，云南工厂的建设进展极为顺利。",
+        "index": 3,
+        "sentence_length": 76,
+        "perplexity": 195.9620819091797,
+        "diversity": 0.7090067267417908
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期参与与华南区域的深入交流，携手重要客户赴贵阳进行实地考察学习。",
+        "index": 1,
+        "sentence_length": 33,
+        "perplexity": 299.5818786621094,
+        "diversity": 0.8005254864692688
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总经理致力于整合各类资源，致力于在华东区域开展试点工程，以苏州园区为驱动力。在区域级别，定期与苏浙沪合作伙伴交流，计划于四月赴成都分公司进行实地考察与学习。每月至少一次深入走访南京生产基地，推进组织架构优化，确保重大活动中有他们的积极参与。",
+        "index": 0,
+        "sentence_length": 122,
+        "perplexity": 135.68389892578125,
+        "diversity": 0.7962919473648071
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，携手客户共同前往昆明进行实地研修。",
+        "index": 1,
+        "sentence_length": 29,
+        "perplexity": 213.88194274902344,
+        "diversity": 0.7848350405693054
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总经理致力于整合各类资源，重点推动粤海地区的试点项目。在区域管理上，定期与闽赣地区交流，计划于四月赴昆明分公司深入调研学习。同时，确保每月至少一次访问清远生产基地，推进组织架构优化，并邀请其参与重要的大型企业活动，以促进团队融合。",
+        "index": 0,
+        "sentence_length": 117,
+        "perplexity": 106.8544692993164,
+        "diversity": 0.8414227962493896
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域经理致力于整合各类资源，重点推动粤海地区的试点项目。在区域事务方面，定期与闽赣地区交流经验，并计划于四月赴昆明分公司进行深入考察。同时，确保每月至少一次访问清远生产基地，积极参与组织改革，并邀请其参与重要的大型活动，以促进团队融合与共同发展。",
+        "index": 0,
+        "sentence_length": 123,
+        "perplexity": 113.27898406982422,
+        "diversity": 0.8461827039718628
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "进行了外出交流，具体是前往美的集团进行了交流。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 152.16148376464844,
+        "diversity": 0.885021984577179
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总经理致力于整合所有资源，全力推进在华东地区的试点项目，以苏州作为核心驱动力。在区域级别，定期与苏浙沪地区进行交流合作，计划于4月赴成都分公司实地考察取经。每月至少安排一次访问位于南京的制造基地，同步推动组织架构优化，并确保重大活动之际，邀请基地员工共同参与。",
+        "index": 0,
+        "sentence_length": 132,
+        "perplexity": 109.36946105957031,
+        "diversity": 0.7492913603782654
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "前往外部进行交流活动，我参与了与美的集团之间的交流。",
+        "index": 2,
+        "sentence_length": 26,
+        "perplexity": 173.54806518554688,
+        "diversity": 0.9193925857543945
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南生产基地的成功创立，得益于A总的鼎力相助与全面协作。 \n\nRewritten Prompt:\n该项目的卓越成就，离不开A总在云南生产基地建设中发挥的关键性领导和深度参与。",
+        "index": 3,
+        "sentence_length": 87,
+        "perplexity": 89.88065338134766,
+        "diversity": 0.6800544261932373
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，并携手客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 275.7578430175781,
+        "diversity": 0.8784962892532349
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外业务研讨，前往格力进行深入交流与合作。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 283.7700500488281,
+        "diversity": 0.6888968348503113
+    },
+    {
+        "type": "style",
+        "evol_prompt": "云南工厂的建设得益于A总的全力协作和推动。 \n\n#Rewritten Prompt#:\n在这一点上表现卓越，云南生产基地得益于A总的积极领导和助力。",
+        "index": 3,
+        "sentence_length": 74,
+        "perplexity": 251.4409942626953,
+        "diversity": 0.684843897819519
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南工厂的成功典范，源于A总的倾力协作与建厂策略的精准实施。在此基础上，进一步推动了地区经济的蓬勃发展。 \n\n#Rewritten Prompt#：\n该地区的产业发展标杆，得益于A总与团队的不懈努力，共同促成了云南生产基地的全面建设与高效运营。",
+        "index": 3,
+        "sentence_length": 122,
+        "perplexity": 72.88898468017578,
+        "diversity": 0.6803038120269775
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外业务对接，前往格力进行深度交流与合作。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 327.2991027832031,
+        "diversity": 0.6888968348503113
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期与华北区域开展互动，携手合作伙伴共赴重庆进行业务研讨。",
+        "index": 1,
+        "sentence_length": 29,
+        "perplexity": 371.95654296875,
+        "diversity": 0.7906283736228943
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外商务考察，前往格力进行深入交流与合作。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 136.26516723632812,
+        "diversity": 0.6888968348503113
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "前往外部进行交流活动，我参与了与美的集团之间的交流。",
+        "index": 2,
+        "sentence_length": 26,
+        "perplexity": 173.54806518554688,
+        "diversity": 0.9193925857543945
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "云南的工厂建设得益于A总的积极推动，其在这一方面表现得十分出色。",
+        "index": 3,
+        "sentence_length": 32,
+        "perplexity": 314.9962158203125,
+        "diversity": 0.8690769076347351
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，并携手客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 275.7578430175781,
+        "diversity": 0.8784962892532349
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次我访问了美的集团进行了交流。 \n\n#Rewritten Prompt#:\n我去了外面进行了一次交流，这次的目的地是美的公司。",
+        "index": 2,
+        "sentence_length": 75,
+        "perplexity": 60.36972427368164,
+        "diversity": 0.7090539932250977
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次选择了美的集团进行交流学习。 \n\n#Rewritten Prompt#:\n前往外部进行一番交流，特意拜访了美的公司进行经验互换。",
+        "index": 2,
+        "sentence_length": 77,
+        "perplexity": 102.2958984375,
+        "diversity": 0.6698898673057556
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南生产基地的卓越成效，得益于A总的全力协作与建厂策划。 \n\n '#Created Prompt#':\n该区域产业发展显著，云南工厂的成功得益于A总的深度参与和战略指导。",
+        "index": 3,
+        "sentence_length": 85,
+        "perplexity": 421.4126281738281,
+        "diversity": 0.622904896736145
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "云南工厂的建设得益于A总的积极推动，这一方面的表现极为出色。 \n\n#Rewritten Prompt#:\nA总积极牵头建设的云南工厂，在这一点上做得非常优秀。",
+        "index": 3,
+        "sentence_length": 79,
+        "perplexity": 190.9312744140625,
+        "diversity": 0.7019515037536621
+    },
+    {
+        "type": "style",
+        "evol_prompt": "云南工厂的建设在A总的积极推动下进展得相当出色。 \n\n#Rewritten Prompt#:\n在A总的带领下，云南的制造基地建设进展堪称卓越。",
+        "index": 3,
+        "sentence_length": 71,
+        "perplexity": 98.04834747314453,
+        "diversity": 0.6908376216888428
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "区域总经理致力于整合各类资源，倾力支持在湘江区域开展试点项目。在区域级别，定期与桂湘赣等地进行交流合作，计划于四月赴贵阳分公司实地考察学习。每月至少一次赴韶关生产基地进行工作对接，推动组织架构优化，同时确保重大活动时，生产基地员工也能积极参与。",
+        "index": 0,
+        "sentence_length": 122,
+        "perplexity": 137.32015991210938,
+        "diversity": 0.7932819128036499
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "大区范围内，A总致力于整合所有资源，以粤海地区作为试点项目推动点。同时，计划在3月份访问昆明分公司，与闽赣地区进行交流学习。每月至少一次，将前往清远工厂，不仅参与组织变革，还会邀请他们共同参加大型活动。",
+        "index": 0,
+        "sentence_length": 101,
+        "perplexity": 157.83770751953125,
+        "diversity": 0.9199793338775635
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南工厂的成功典范，源于A总的携手合作，共同致力于打造这一生产基地。 \n\n#Rewritten Prompt#:\n该领域的杰出成就，得益于A总的大力协助，在云南建立起的这一制造业标杆。",
+        "index": 3,
+        "sentence_length": 92,
+        "perplexity": 202.03744506835938,
+        "diversity": 0.711087167263031
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次选择了美的集团进行交流学习。 \n\n#Rewritten Prompt#:\n进行了场外交流，特地去了美的公司进行互动与学习。",
+        "index": 2,
+        "sentence_length": 74,
+        "perplexity": 106.63534545898438,
+        "diversity": 0.6875003576278687
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加国际行业研讨会，赴德国博世进行专业交流。",
+        "index": 2,
+        "sentence_length": 22,
+        "perplexity": 116.62682342529297,
+        "diversity": 0.7051346898078918
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "大区范围内，A总全力争取资源投入，以粤海为试点推进项目。同时，计划在三月份赴昆明分公司，与闽赣地区进行学习交流。每月至少一次，将前往清远工厂，不仅参与组织变革，还会邀请他们共同参与大型活动。",
+        "index": 0,
+        "sentence_length": 95,
+        "perplexity": 165.1556396484375,
+        "diversity": 0.9115658402442932
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加国际行业研讨会，赴德国博世公司进行专业交流。",
+        "index": 2,
+        "sentence_length": 24,
+        "perplexity": 78.19477844238281,
+        "diversity": 0.6697795391082764
+    },
+    {
+        "type": "style",
+        "evol_prompt": "大区开拓资源，由粤海试点项目引领。在区域级别，我们计划与闽赣地区联动，三月份将赴昆明分公司实地考察学习。同时，确保每月至少访问清远工厂一次，参与组织变革，并邀请他们共同参与重大活动。",
+        "index": 0,
+        "sentence_length": 91,
+        "perplexity": 173.60218811035156,
+        "diversity": 0.8797773718833923
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "style",
+        "evol_prompt": "在大区域积极争取资源，以粤海为试点推动项目。计划在三月份前往昆明分公司，与闽赣地区进行交流学习。每月至少走访一次清远工厂，共同参与组织变革及大型活动，增进互动合作。",
+        "index": 0,
+        "sentence_length": 82,
+        "perplexity": 205.4931640625,
+        "diversity": 0.8997724056243896
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "前往外部进行了交流，具体是前往美的集团进行了互动交流。",
+        "index": 2,
+        "sentence_length": 27,
+        "perplexity": 308.7369384765625,
+        "diversity": 0.9140255451202393
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加国际行业研讨会，赴德国bosch公司进行深入交流与合作。",
+        "index": 2,
+        "sentence_length": 30,
+        "perplexity": 110.21448516845703,
+        "diversity": 0.661661684513092
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次我访问了美的集团进行了交流。 \n\n#Rewritten Prompt#:\n前往外界进行了一番交流，特地去了美的集团进行了深入互动。",
+        "index": 2,
+        "sentence_length": 78,
+        "perplexity": 85.87660217285156,
+        "diversity": 0.7292911410331726
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "定期与闽赣大区进行互动，并带领客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 232.5309295654297,
+        "diversity": 0.8787404894828796
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加国际行业研讨会，赴德国博世公司进行深度交流学习。",
+        "index": 2,
+        "sentence_length": 26,
+        "perplexity": 65.33212280273438,
+        "diversity": 0.646863579750061
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，并携手客户共同前往昆明进行学习交流。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 275.7578430175781,
+        "diversity": 0.8784962892532349
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次我访问了美的集团进行了交流。 \n\n#Rewritten Prompt#:\n我前往外界进行了互动交流，这次的目的地是美的公司。",
+        "index": 2,
+        "sentence_length": 75,
+        "perplexity": 71.1382064819336,
+        "diversity": 0.6928761005401611
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "参加海外商务考察，前往格力进行深入交流与合作。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 136.26516723632812,
+        "diversity": 0.6888968348503113
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期参与浙皖区域互动，携手客户赴贵阳进行交流学习。",
+        "index": 1,
+        "sentence_length": 25,
+        "perplexity": 704.8092041015625,
+        "diversity": 0.8795443773269653
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，携手客户共同前往昆明进行实地考察学习。",
+        "index": 1,
+        "sentence_length": 31,
+        "perplexity": 194.11656188964844,
+        "diversity": 0.8421633839607239
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南工厂的成功典范，源于A总的倾力协作与建厂策划。 \n\n请注意，这个“Created Prompt”遵循了您的要求，其长度和复杂性尽量与“Given Prompt”保持一致，且不包含任何禁止的词汇。",
+        "index": 3,
+        "sentence_length": 99,
+        "perplexity": 112.67513275146484,
+        "diversity": 0.5486168265342712
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次选择了美的集团进行访问交流。 \n\n#Rewritten Prompt#:\n去外面进行了一番交流，这次的目的地是美的公司。",
+        "index": 2,
+        "sentence_length": 73,
+        "perplexity": 79.2341537475586,
+        "diversity": 0.7168882489204407
+    },
+    {
+        "type": "style",
+        "evol_prompt": "定期与闽赣大区进行互动，并携手客户共同前往昆明进行考察学习。",
+        "index": 1,
+        "sentence_length": 30,
+        "perplexity": 304.80194091796875,
+        "diversity": 0.8701222538948059
+    },
+    {
+        "type": "style",
+        "evol_prompt": "在大区域范围内，A总全力争取资源投入，以粤海地区作为试点项目核心推动地。同时，计划在三月份前往昆明分公司，与闽赣团队交流学习。每月至少安排一次赴清远工厂的访问，共同推进组织变革，并邀请他们参与大型活动，增进互动与合作。",
+        "index": 0,
+        "sentence_length": 109,
+        "perplexity": 169.18994140625,
+        "diversity": 0.8622573018074036
+    },
+    {
+        "type": "style",
+        "evol_prompt": "云南工厂的建设在A总的积极倡导下取得了卓越成效。 \n\n#Rewritten Prompt#:\n在A总的带领下，云南生产基地的建设进展堪称一流。",
+        "index": 3,
+        "sentence_length": 71,
+        "perplexity": 92.1171646118164,
+        "diversity": 0.6745551824569702
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，本次我访问了美的集团进行交流。 \n\n#Rewritten Prompt#:\n前往外界进行了一番交流，这次的目的地是美的公司。",
+        "index": 2,
+        "sentence_length": 73,
+        "perplexity": 71.25458526611328,
+        "diversity": 0.6929895877838135
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次我访问了美的集团进行了交流。 \n\n#Rewritten Prompt#:\n前往外界进行了一番交流，特地去了美的集团进行了深入互动。",
+        "index": 2,
+        "sentence_length": 78,
+        "perplexity": 85.87660217285156,
+        "diversity": 0.7292911410331726
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "ritten Prompt#: \r\n大区的资源由A总全力争取，以粤海为试点推进项目。在区域层面，我们计划三月前往昆明分公司与闽赣交流学习。同时，每月至少一次赴清远工厂进行组织变革的跟进，并邀请他们参与重大活动。",
+        "index": 0,
+        "sentence_length": 105,
+        "perplexity": 266.9395751953125,
+        "diversity": 0.735135555267334
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期参与江南地区行业交流，偕同客户赴贵阳进行深度考察学习。",
+        "index": 1,
+        "sentence_length": 29,
+        "perplexity": 314.02874755859375,
+        "diversity": 0.7131842374801636
+    },
+    {
+        "type": "style",
+        "evol_prompt": "云南工厂的建设得益于A总的积极倡导和协作努力，可谓是成果显著。 \n\n#Rewritten Prompt#:\n在这一点上表现突出，A总大力协助推动了云南工厂的落成。",
+        "index": 3,
+        "sentence_length": 81,
+        "perplexity": 138.93858337402344,
+        "diversity": 0.6423684358596802
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "大区成为了A总全力争取资源的目标，以粤海为试点推进项目。同时，在区域层面，我计划三月前往昆明分公司进行交流学习，并且确保每月至少访问一次清远工厂，参与组织变革及重大活动的策划，并邀请他们一同参与。",
+        "index": 0,
+        "sentence_length": 98,
+        "perplexity": 178.04051208496094,
+        "diversity": 0.9001746773719788
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期参与与华东区域的深入交流，携手客户共赴贵阳进行实地考察学习。",
+        "index": 1,
+        "sentence_length": 32,
+        "perplexity": 277.8636474609375,
+        "diversity": 0.853293240070343
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "云南的工厂建设得益于A总的积极推动，在此方面表现卓越。",
+        "index": 3,
+        "sentence_length": 27,
+        "perplexity": 1350.7103271484375,
+        "diversity": 0.9257402420043945
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "前往美的公司进行了外部交流。",
+        "index": 2,
+        "sentence_length": 14,
+        "perplexity": 920.8927612304688,
+        "diversity": 0.7967744469642639
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南工厂的成功典范，源于A总的倾力协作与建厂策略的精准实施。在此基础上，设想以下场景：\n\n#Created Prompt#：\r\nB总在借鉴A总云南工厂的成功模式后，决心在我国西北地区开拓新的生产基地，以期实现产业区域均衡发展。在筹备过程中，他将采取哪些关键举措来确保项目的顺利推进和长远成功？",
+        "index": 3,
+        "sentence_length": 146,
+        "perplexity": 83.19072723388672,
+        "diversity": 0.6127054691314697
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "定期与华东区域进行互动，携手合作伙伴共同赴贵阳进行业务考察学习。",
+        "index": 1,
+        "sentence_length": 32,
+        "perplexity": 281.71954345703125,
+        "diversity": 0.8212543725967407
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "云南的工厂建设得益于A总的积极推动，这一方面的表现堪称卓越。 \n\n#Rewritten Prompt#:\n由A总大力协作下，云南工厂的建设进展极为出色。",
+        "index": 3,
+        "sentence_length": 76,
+        "perplexity": 220.56333923339844,
+        "diversity": 0.7123522162437439
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行沟通，此次选择了美的集团进行交流。 \n\n#Rewritten Prompt#:\n前往外部进行对接，特地拜访了美的进行互动学习。",
+        "index": 2,
+        "sentence_length": 69,
+        "perplexity": 137.5603485107422,
+        "diversity": 0.7557114362716675
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "进行了外出交流，具体是前往美的集团进行了交流。",
+        "index": 2,
+        "sentence_length": 23,
+        "perplexity": 152.16148376464844,
+        "diversity": 0.885021984577179
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次我访问了美的集团进行交流。 \n\n#Rewritten Prompt#:\n跑去外部进行一番交流，这次的目的地是美的那边进行了深入的互动。",
+        "index": 2,
+        "sentence_length": 80,
+        "perplexity": 120.40747833251953,
+        "diversity": 0.7569255232810974
+    },
+    {
+        "type": "style",
+        "evol_prompt": "前往外部进行交流活动，此次选择了美的集团进行交流学习。 \n\n#Rewritten Prompt#:\n跑去外部进行了一番交流，这次的目的地是美的那边。",
+        "index": 2,
+        "sentence_length": 74,
+        "perplexity": 136.03515625,
+        "diversity": 0.7535887956619263
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "云南生产基地的成功创立，得益于A总的全力协作与倡导。 \n\n '#Created Prompt#':\n该区域产业的发展，离不开A总深度参与并引领的云南制造中心的建立。",
+        "index": 3,
+        "sentence_length": 82,
+        "perplexity": 334.5014343261719,
+        "diversity": 0.6751195192337036
+    },
+    {
+        "type": "style",
+        "evol_prompt": "大区拓展是A总的战略重点，我们以粤海作为试点项目的主战场。三月份，我们计划深入到闽赣地区，并实地考察昆明分公司以汲取经验。每月至少一次，我们会前往清远工厂交流学习，共同推动组织变革，并在大型活动中邀请他们共襄盛举。",
+        "index": 0,
+        "sentence_length": 107,
+        "perplexity": 129.6208953857422,
+        "diversity": 0.8811759948730469
+    },
+    {
+        "type": "style",
+        "evol_prompt": "大区拓展是A总的战略重点，我们将关键试点设在粤海地区。同时，我计划在三月份前往昆明分公司，与闽赣团队交流学习。每个月至少要到清远工厂走访一次，不仅推进组织改革，还会邀请他们共同参与大型活动。",
+        "index": 0,
+        "sentence_length": 95,
+        "perplexity": 177.33413696289062,
+        "diversity": 0.8913872838020325
+    }
+]

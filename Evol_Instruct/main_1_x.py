@@ -30,19 +30,6 @@ def getevolprompt(instruction, type):
         print('use con,deep,concret,reason,bread plz')
 
 
-def augment(types, num, instruction):
-    """
-    输入增广选择types 增广数量 num  要增广的 instruction
-    返回一个list 里边是增广结果
-    """
-    evol_objs = []
-    for i in range(0,num):
-        print(i)
-        type = random.choice(types)
-        selected_evol_prompt = getevolprompt(instruction , type)
-        evol_instruction = call_chatgpt(selected_evol_prompt)
-        evol_objs.append({"type":type,"evol_prompt":evol_instruction})
-    return evol_objs
 
 one_1_t = []
 one_1_t.append(
@@ -148,31 +135,36 @@ seven_4_t.append('人才方面要关注，别的没有了。')
 
 
 
-num = 10
+num = 100
 
 text_list = [one_1_t , four_1_1_t , four_2_1_t,four_2_2_t,four_2_3_t, four_3_2_t,four_4_1_t,four_4_2_t,four_5_1_t,four_5_2_t,six_1_t,seven_4_t]
 name_list = ['one_1_t' , 'four_1_1_t' , 'four_2_1_t','four_2_2_t','four_2_3_t','four_3_2_t','four_4_1_t','four_4_2_t','four_5_1_t','four_5_2_t','six_1_t','seven_4_t']
 
 
-# for index,text in enumerate(text_list):
-#     aug = augment(types=['style','structure','bread'],num=num, instruction=text)
-#     with open(f'result_1/{name_list[index]}.json', 'w', encoding='utf-8') as f:
-#         json.dump(aug, f, ensure_ascii=False, indent=4)
-#     print(f'{index}/{num}')    
+
+def augment(types, num, instruction, index1):
+    """
+    输入增广选择types 增广数量 num=1  要增广的 instruction
+    返回一个augment 的结果 是一个{}
+    """
+    type = random.choice(types)
+    selected_evol_prompt = getevolprompt(instruction , type)
+    evol_instruction = call_chatgpt(selected_evol_prompt)
+    return {"type":type,"evol_prompt":evol_instruction, 'index':index1}
+
 
 def process_task(index, text):
-    # print(type(text))
-    # text1 = random.choice(text)
-    # aug = augment(types=['style', 'structure', 'bread'], num=num, instruction=text1)
-    # file_path = f'result_1_t/{name_list[index]}.json'
-    # with open(file_path, 'w', encoding='utf-8') as f:
-    #     json.dump(aug, f, ensure_ascii=False, indent=4)
     results = []
-    for _ in range(num):  # 假设 num 是要重复的次数
+    for x in range(num):  # 假设 num 是要重复的次数
+        print(x)
         text1 = random.choice(text)
-        aug = augment(types=['style', 'structure', 'bread'], num=1, instruction=text1)
+        index1 = text.index(text1)
+        # print('start here')
+        # print(text1)
+        aug = augment(types=['style', 'structure', 'bread'], num=1, instruction=text1, index1=index1)
         results.append(aug)
     file_path = f'result_1_x/{name_list[index]}.json'
+    # print(file_path)
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
     

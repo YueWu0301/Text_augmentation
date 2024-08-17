@@ -56,7 +56,9 @@ def get_oai_completion(prompt):
             print(f"The OpenAI API returned an error: {e}")
             return None
     except openai.error.RateLimitError as e:
-        return get_oai_completion(prompt)
+        print('rate limit')
+        return 'rate limit'
+        # return get_oai_completion(prompt)
 
 def call_chatgpt(ins):
     success = False
@@ -69,5 +71,5 @@ def call_chatgpt(ins):
             success = True
         except:
             time.sleep(5)
-            print('retry for sample:', ins)
+            print('exist problem')
     return ans
