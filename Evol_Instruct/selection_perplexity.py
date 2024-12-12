@@ -42,7 +42,7 @@ def getp (sentence):
     return ppl
 
 
-folder_path = 'result_1'
+folder_path = 'result_1_context'
 json_filenames = []
 def process_item(item):
     item['sentence_length'] = len(item['evol_prompt'])
@@ -60,7 +60,7 @@ for name in json_filenames:
     
     with concurrent.futures.ThreadPoolExecutor() as executor:
         results = list(tqdm(executor.map(process_item, data), total=len(data)))
-    with open(f'{folder_path}/{name}', 'w', encoding='utf-8') as f:
+    with open(f'{folder_path}_1/{name}', 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 
     

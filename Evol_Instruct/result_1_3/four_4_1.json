@@ -1,0 +1,1002 @@
+[
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 440.53643798828125,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.0,
+        "score": 1.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.6168750316648995,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.549250953970526
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.6168750316648995,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.549250953970526
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.6168750316648995,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.549250953970526
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.6168750316648995,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.549250953970526
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟踪并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 291.3391418457031,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.6168750316648995,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.549250953970526
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行。",
+        "sentence_length": 10,
+        "perplexity": 243.27398681640625,
+        "diversity": 0.5170074105262756,
+        "perplexity_normalized": 0.4934481233044218,
+        "diversity_normalized": 0.0,
+        "score": 0.4934481233044218
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 265.1403503417969,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.5495989387003201,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.4893499102526829
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "持续跟进并确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 154.2473602294922,
+        "diversity": 0.5284518599510193,
+        "perplexity_normalized": 0.264835914008771,
+        "diversity_normalized": 0.10962362589366137,
+        "score": 0.2358036408482676
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续监控，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 114.22760772705078,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.16206886120893949,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.09227810115878297
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 79.47700500488281,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0728325016248281,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.04146907001412558
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续关注并执行到位。",
+        "sentence_length": 10,
+        "perplexity": 409.0653991699219,
+        "diversity": 0.6214050650596619,
+        "perplexity_normalized": 0.9191852596361114,
+        "diversity_normalized": 1.0,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "持续跟进，确保执行到位。",
+        "sentence_length": 12,
+        "perplexity": 51.11442565917969,
+        "diversity": 0.5619635581970215,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.4306241157589312,
+        "score": 0.0
+    }
+]

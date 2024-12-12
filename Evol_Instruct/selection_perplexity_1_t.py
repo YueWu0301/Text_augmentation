@@ -126,7 +126,6 @@ def getp (sentence):
         if end_loc == seq_len:
             break
     ppl = float(torch.exp(torch.stack(nlls).mean()))
-    print(ppl)
     return ppl
 
 
@@ -141,7 +140,8 @@ for filename in os.listdir(folder_path):
     if filename.endswith('.json'):  # 检查文件扩展名是否为 .json
         json_filenames.append(filename)
 
-for name in json_filenames:
+# for name in json_filenames:
+for name in ['four_2_2_t.json']:
     print(name)
     with open(f'{folder_path}/{name}', 'r', encoding='utf-8') as f:
         data = json.load(f)

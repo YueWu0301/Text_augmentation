@@ -34,7 +34,8 @@ def process_item(item):
     return item
 
 json_filenames = []
-folder_path = 'result_1'
+folder_path = 'result_1_context_1'
+folder_path_write = 'result_1_context_2'
 
 one_1 = '19年5月到粤海大区，做交接和市场调研面临一些问题，从粤海过往销售来讲，挑战比较大，业绩完成困难，业绩达成，费用预算超支。\
 在两年间，保障业绩的达成，来的时候30多亿，现在是53亿，明年第三，2025有希望成为规模第一的大区。我们还有一项艰巨的任务，大区经营上，我们预算缺口有1.6个亿，通过3年时间，各方面整合资源，实现业绩的同时，补平预算缺口。\
@@ -90,7 +91,7 @@ for name in json_filenames:
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         results = list(tqdm(executor.map(process_item, data), total=len(data)))
-    with open(f'{folder_path}/{name}.json', 'w', encoding='utf-8') as f:
+    with open(f'{folder_path_write}/{name}.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 
 

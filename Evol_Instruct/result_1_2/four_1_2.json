@@ -1,0 +1,902 @@
+[
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一方面。",
+        "sentence_length": 53,
+        "perplexity": 212.6145477294922,
+        "diversity": 0.8550164103507996,
+        "perplexity_normalized": 0.6315782212803509,
+        "diversity_normalized": 0.857117913327822
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的健康发展，关键在于提升其盈利模式和业绩增长潜力。需深入融合至各合作伙伴及经销商的运营策略中，促使团队成员聚焦于增强合作伙伴的可持续发展能力。",
+        "sentence_length": 76,
+        "perplexity": 84.07933044433594,
+        "diversity": 0.8228232264518738,
+        "perplexity_normalized": 0.0,
+        "diversity_normalized": 0.7225855641353345
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一因素融入到合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.06075286865234,
+        "diversity": 0.8664872646331787,
+        "perplexity_normalized": 0.02939066985116795,
+        "diversity_normalized": 0.9050535564347055
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一因素整合入合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 125.2854232788086,
+        "diversity": 0.860184371471405,
+        "perplexity_normalized": 0.2024726870035385,
+        "diversity_normalized": 0.8787143466682874
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，并要求团队对此给予密切关注。",
+        "sentence_length": 51,
+        "perplexity": 287.5936584472656,
+        "diversity": 0.8876805901527405,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.9936185110008453
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的成长与盈利性至关重要，需深入融合伙伴商业运营，促使团队致力于提高合作伙伴的商业活力和创收能力。",
+        "sentence_length": 53,
+        "perplexity": 194.89480590820312,
+        "diversity": 0.8037400841712952,
+        "perplexity_normalized": 0.544509453222733,
+        "diversity_normalized": 0.642838870889924
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的成长与盈利性至关重要，需深入融合合作伙伴及经销商的运营策略。要求团队侧重于提升经销商的盈利潜能和业务发展。",
+        "sentence_length": 59,
+        "perplexity": 169.6339111328125,
+        "diversity": 0.8136299848556519,
+        "perplexity_normalized": 0.4203860314308925,
+        "diversity_normalized": 0.6841678545817573
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长引擎，依赖于其成员的盈利效能。需深入融合至各级合作伙伴及经销商的运营策略中。要求团队成员聚焦于提升合作伙伴的盈利潜力和扩展其业务范围。",
+        "sentence_length": 75,
+        "perplexity": 139.2161102294922,
+        "diversity": 0.8688161969184875,
+        "perplexity_normalized": 0.27092333167010496,
+        "diversity_normalized": 0.9147859498642128
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及分销商的运营策略。要求团队专注于优化合作伙伴的盈利模型和销售渠道效能。",
+        "sentence_length": 60,
+        "perplexity": 177.55996704101562,
+        "diversity": 0.8330024480819702,
+        "perplexity_normalized": 0.45933196701184587,
+        "diversity_normalized": 0.7651235934010123
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的协同盈利模式探索，需深度融合伙伴经营战略，促使团队专注于提升合作伙伴的综合盈利能力。",
+        "sentence_length": 48,
+        "perplexity": 258.9571533203125,
+        "diversity": 0.7976626753807068,
+        "perplexity_normalized": 0.859289980179966,
+        "diversity_normalized": 0.6174419395342712
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络成长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队侧重于增强合作伙伴的盈利潜能和商业活力。",
+        "sentence_length": 57,
+        "perplexity": 196.93093872070312,
+        "diversity": 0.8512042760848999,
+        "perplexity_normalized": 0.5545143154478176,
+        "diversity_normalized": 0.8411873554855527
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络盈利增长策略，需深入融合合作伙伴及经销商的运营核心。要求团队侧重于探讨与实施提升合作伙伴及经销商盈利潜力的具体措施。",
+        "sentence_length": 63,
+        "perplexity": 176.93951416015625,
+        "diversity": 0.7739843130111694,
+        "perplexity_normalized": 0.4562832731584556,
+        "diversity_normalized": 0.5184922449465557
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络优化对业绩增长的作用至关重要，需深入融合伙伴及经销商的盈利模式。请指导团队着重研究提升合作伙伴与经销商的盈利能力和经营效率。",
+        "sentence_length": 67,
+        "perplexity": 152.11151123046875,
+        "diversity": 0.8703052401542664,
+        "perplexity_normalized": 0.3342869342602426,
+        "diversity_normalized": 0.921008524344185
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络盈利增长的关键因素，需深度融入合作伙伴及分销商的运营策略。要求团队侧重于提升分销商的盈利潜力和业务效能。",
+        "sentence_length": 57,
+        "perplexity": 103.7320785522461,
+        "diversity": 0.8467903733253479,
+        "perplexity_normalized": 0.09656690170545257,
+        "diversity_normalized": 0.8227420625560282
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.7699203491211,
+        "diversity": 0.8703092336654663,
+        "perplexity_normalized": 0.03287527699125359,
+        "diversity_normalized": 0.9210252128595227
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一因素整合入合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 65,
+        "perplexity": 112.34765625,
+        "diversity": 0.8585410714149475,
+        "perplexity_normalized": 0.13890091220141088,
+        "diversity_normalized": 0.8718471471481197
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络成长与盈利性提升，需深度融入合作伙伴及经销商的日常运营活动。要求团队专注于优化合作伙伴的盈利模型和商业实践。",
+        "sentence_length": 59,
+        "perplexity": 148.23223876953125,
+        "diversity": 0.7407288551330566,
+        "perplexity_normalized": 0.3152255123986739,
+        "diversity_normalized": 0.37952075067432833
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，让团队着重对此给予关注。",
+        "sentence_length": 49,
+        "perplexity": 285.16162109375,
+        "diversity": 0.8870915174484253,
+        "perplexity_normalized": 0.9880497978821392,
+        "diversity_normalized": 0.9911568304474243
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.7699203491211,
+        "diversity": 0.8703092336654663,
+        "perplexity_normalized": 0.03287527699125359,
+        "diversity_normalized": 0.9210252128595227
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，并要求团队对此给予密切关注。",
+        "sentence_length": 51,
+        "perplexity": 287.5936584472656,
+        "diversity": 0.8876805901527405,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.9936185110008453
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及分销商的运营策略。要求团队针对分销商的盈利模式和增长潜力进行持续关注与分析。",
+        "sentence_length": 63,
+        "perplexity": 98.88583374023438,
+        "diversity": 0.7978173494338989,
+        "perplexity_normalized": 0.07275410749303751,
+        "diversity_normalized": 0.6180883081506958
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队聚焦于提高合作伙伴经销商的盈利效能和市场份额。",
+        "sentence_length": 61,
+        "perplexity": 195.12059020996094,
+        "diversity": 0.801617443561554,
+        "perplexity_normalized": 0.5456188802786726,
+        "diversity_normalized": 0.6339685513646351
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的价值提升，关键在于其盈利模式的创新与优化。需深入融合至合作伙伴及经销商的日常运营中，促使团队致力于探寻提升合作伙伴盈利力的策略与措施。",
+        "sentence_length": 73,
+        "perplexity": 91.59847259521484,
+        "diversity": 0.7941539287567139,
+        "perplexity_normalized": 0.03694650015388923,
+        "diversity_normalized": 0.6027792106930043
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一方面。",
+        "sentence_length": 53,
+        "perplexity": 212.6145477294922,
+        "diversity": 0.8550164103507996,
+        "perplexity_normalized": 0.6315782212803509,
+        "diversity_normalized": 0.857117913327822
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及分销商的运营策略。要求团队聚焦于增强合作伙伴与分销商的盈利潜能和业务拓展。",
+        "sentence_length": 62,
+        "perplexity": 109.05736541748047,
+        "diversity": 0.8071302771568298,
+        "perplexity_normalized": 0.12273354519188917,
+        "diversity_normalized": 0.6570061749997573
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.7699203491211,
+        "diversity": 0.8703092336654663,
+        "perplexity_normalized": 0.03287527699125359,
+        "diversity_normalized": 0.9210252128595227
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的业绩增长依赖于成员的盈利模式创新，需深入融合合作伙伴及经销商的运营策略。要求团队聚焦于提升经销商盈利潜能和经营效率。",
+        "sentence_length": 64,
+        "perplexity": 101.25933074951172,
+        "diversity": 0.7763752341270447,
+        "perplexity_normalized": 0.08441666232427852,
+        "diversity_normalized": 0.52848368398727
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队专注于优化合作伙伴的盈利模型及市场拓展策略。",
+        "sentence_length": 60,
+        "perplexity": 162.19509887695312,
+        "diversity": 0.8285586833953857,
+        "perplexity_normalized": 0.3838342449849166,
+        "diversity_normalized": 0.7465535102299357
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 115.6552963256836,
+        "diversity": 0.8659595847129822,
+        "perplexity_normalized": 0.1551535274749457,
+        "diversity_normalized": 0.902848430669307
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 112.41056823730469,
+        "diversity": 0.8619548678398132,
+        "perplexity_normalized": 0.13921004025112627,
+        "diversity_normalized": 0.8861130878560664
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，要求团队成员对此给予高度关注。",
+        "sentence_length": 52,
+        "perplexity": 171.88002014160156,
+        "diversity": 0.8663932085037231,
+        "perplexity_normalized": 0.4314226450729389,
+        "diversity_normalized": 0.9046605045361629
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队聚焦于提高合作伙伴的市场竞争力和盈利潜能。",
+        "sentence_length": 59,
+        "perplexity": 156.50003051757812,
+        "diversity": 0.8467012047767639,
+        "perplexity_normalized": 0.35585062134887946,
+        "diversity_normalized": 0.8223694354075999
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一要素融入到合作伙伴及经销商的运营中。要求团队成员对此给予密切关注。",
+        "sentence_length": 60,
+        "perplexity": 103.740234375,
+        "diversity": 0.8741829991340637,
+        "perplexity_normalized": 0.09660697663695228,
+        "diversity_normalized": 0.9372133218190881
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，并要求团队对此给予密切关注。",
+        "sentence_length": 51,
+        "perplexity": 287.5936584472656,
+        "diversity": 0.8876805901527405,
+        "perplexity_normalized": 1.0,
+        "diversity_normalized": 0.9936185110008453
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.7699203491211,
+        "diversity": 0.8703092336654663,
+        "perplexity_normalized": 0.03287527699125359,
+        "diversity_normalized": 0.9210252128595227
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一因素纳入合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 62,
+        "perplexity": 99.06314849853516,
+        "diversity": 0.8658899664878845,
+        "perplexity_normalized": 0.07362537174278716,
+        "diversity_normalized": 0.9025575025213359
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一环节。",
+        "sentence_length": 53,
+        "perplexity": 224.08970642089844,
+        "diversity": 0.8562408089637756,
+        "perplexity_normalized": 0.6879632375296296,
+        "diversity_normalized": 0.8622345623137955
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 65,
+        "perplexity": 95.28499603271484,
+        "diversity": 0.8657006025314331,
+        "perplexity_normalized": 0.055060819050625265,
+        "diversity_normalized": 0.9017661679955626
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，并要求团队成员对此给予高度关注。",
+        "sentence_length": 53,
+        "perplexity": 172.18321228027344,
+        "diversity": 0.8701348900794983,
+        "perplexity_normalized": 0.43291242783981876,
+        "diversity_normalized": 0.9202966470780032
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的成长与盈利性至关重要，需深入融合合作伙伴及经销商的运营策略。要求团队侧重于提升经销商的盈利潜力和业务发展能力。",
+        "sentence_length": 61,
+        "perplexity": 125.8601303100586,
+        "diversity": 0.8269738554954529,
+        "perplexity_normalized": 0.20529660135340055,
+        "diversity_normalized": 0.7399306604641849
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一因素整合入合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 125.2854232788086,
+        "diversity": 0.860184371471405,
+        "perplexity_normalized": 0.2024726870035385,
+        "diversity_normalized": 0.8787143466682874
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一因素纳入合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 60,
+        "perplexity": 121.46438598632812,
+        "diversity": 0.8648135662078857,
+        "perplexity_normalized": 0.18369741289887953,
+        "diversity_normalized": 0.8980593249321189
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的业绩增长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队侧重于探究提升合作伙伴经销商盈利潜能的多元化途径。",
+        "sentence_length": 65,
+        "perplexity": 231.12437438964844,
+        "diversity": 0.8139610886573792,
+        "perplexity_normalized": 0.7225291967806595,
+        "diversity_normalized": 0.6855515068608482
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一因素融入到合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 107.14222717285156,
+        "diversity": 0.8659595847129822,
+        "perplexity_normalized": 0.11332320900857462,
+        "diversity_normalized": 0.902848430669307
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一要点。",
+        "sentence_length": 53,
+        "perplexity": 261.8053283691406,
+        "diversity": 0.8562408089637756,
+        "perplexity_normalized": 0.8732849410103756,
+        "diversity_normalized": 0.8622345623137955
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 65,
+        "perplexity": 95.28499603271484,
+        "diversity": 0.8657006025314331,
+        "perplexity_normalized": 0.055060819050625265,
+        "diversity_normalized": 0.9017661679955626
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 112.41056823730469,
+        "diversity": 0.8619548678398132,
+        "perplexity_normalized": 0.13921004025112627,
+        "diversity_normalized": 0.8861130878560664
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络优化对业绩增长至关重要，需深入融合伙伴及经销商的盈利模式。要求团队侧重于提升合作伙伴的商业盈利能力和经销商的经营效益。",
+        "sentence_length": 64,
+        "perplexity": 112.544921875,
+        "diversity": 0.8607770800590515,
+        "perplexity_normalized": 0.13987020820595142,
+        "diversity_normalized": 0.8811912212431352
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一要素融入到合作伙伴及经销商的运营中。要求团队成员对此给予密切关注。",
+        "sentence_length": 60,
+        "perplexity": 103.740234375,
+        "diversity": 0.8741829991340637,
+        "perplexity_normalized": 0.09660697663695228,
+        "diversity_normalized": 0.9372133218190881
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 112.41056823730469,
+        "diversity": 0.8619548678398132,
+        "perplexity_normalized": 0.13921004025112627,
+        "diversity_normalized": 0.8861130878560664
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一因素融入到合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.06075286865234,
+        "diversity": 0.8664872646331787,
+        "perplexity_normalized": 0.02939066985116795,
+        "diversity_normalized": 0.9050535564347055
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队聚焦于提高合作伙伴的市场竞争力和盈利潜能。",
+        "sentence_length": 59,
+        "perplexity": 156.50003051757812,
+        "diversity": 0.8467012047767639,
+        "perplexity_normalized": 0.35585062134887946,
+        "diversity_normalized": 0.8223694354075999
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一环节。",
+        "sentence_length": 53,
+        "perplexity": 224.08970642089844,
+        "diversity": 0.8562408089637756,
+        "perplexity_normalized": 0.6879632375296296,
+        "diversity_normalized": 0.8622345623137955
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一因素纳入合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 60,
+        "perplexity": 121.46438598632812,
+        "diversity": 0.8648135662078857,
+        "perplexity_normalized": 0.18369741289887953,
+        "diversity_normalized": 0.8980593249321189
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 112.41056823730469,
+        "diversity": 0.8619548678398132,
+        "perplexity_normalized": 0.13921004025112627,
+        "diversity_normalized": 0.8861130878560664
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "Created Prompt#:\r\n盈收增长的关键，在于我们的合作伙伴与分销商的盈利效能。必须深入融合到他们的运营策略中。要求团队成员密切留意并优化合作伙伴及分销商的盈利模式。",
+        "sentence_length": 88,
+        "perplexity": 165.39584350585938,
+        "diversity": 0.6499106884002686,
+        "perplexity_normalized": 0.399561612489283,
+        "diversity_normalized": 0.0
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的业绩增长，取决于加盟商的盈利模式和经营策略。需要深入融合各加盟商和经销商的商业运营，并指导团队聚焦于提升其盈利潜能。",
+        "sentence_length": 64,
+        "perplexity": 108.5341796875,
+        "diversity": 0.6765406727790833,
+        "perplexity_normalized": 0.12016278894531707,
+        "diversity_normalized": 0.11128425099825989
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的价值提升，关键在于其盈利模式的创新与优化。需深入融合合作伙伴及经销商的运营策略，促使团队聚焦于增强其商业盈利潜能。",
+        "sentence_length": 63,
+        "perplexity": 100.30392456054688,
+        "diversity": 0.7916850447654724,
+        "perplexity_normalized": 0.07972212214944085,
+        "diversity_normalized": 0.5924619719797337
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的价值提升，关键在于提升其盈利模式和市场竞争力。需深入融合合作伙伴及经销商的运营策略，并指导团队聚焦于增强其商业赢利潜能。",
+        "sentence_length": 66,
+        "perplexity": 123.24017333984375,
+        "diversity": 0.8668805956840515,
+        "perplexity_normalized": 0.19242302632836772,
+        "diversity_normalized": 0.9066972506542772
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长引擎，在于其盈利模式的可持续性。必须深入融合至合作伙伴及经销商的运营策略中。要求团队成员密切监控并促进业务发展。",
+        "sentence_length": 64,
+        "perplexity": 135.23260498046875,
+        "diversity": 0.8462813496589661,
+        "perplexity_normalized": 0.25134974543608757,
+        "diversity_normalized": 0.8206148995563098
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的盈利增长是公司发展的核心动力。深入融合合作伙伴与经销商的运营策略，强化团队针对其盈利模式的关注与支持。",
+        "sentence_length": 57,
+        "perplexity": 130.67210388183594,
+        "diversity": 0.6750055551528931,
+        "perplexity_normalized": 0.2289409983793832,
+        "diversity_normalized": 0.10486913588611202
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 63,
+        "perplexity": 90.7699203491211,
+        "diversity": 0.8703092336654663,
+        "perplexity_normalized": 0.03287527699125359,
+        "diversity_normalized": 0.9210252128595227
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，要求团队成员对此给予密切关注。",
+        "sentence_length": 52,
+        "perplexity": 255.8081817626953,
+        "diversity": 0.889207661151886,
+        "perplexity_normalized": 0.8438170078909002,
+        "diversity_normalized": 1.0
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去，确保团队密切关注。",
+        "sentence_length": 46,
+        "perplexity": 223.21978759765625,
+        "diversity": 0.7771267294883728,
+        "perplexity_normalized": 0.6836887531148044,
+        "diversity_normalized": 0.5316241138585172
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，并要求团队成员对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 253.42127990722656,
+        "diversity": 0.888140082359314,
+        "perplexity_normalized": 0.8320885862171477,
+        "diversity_normalized": 0.9955386865939166
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营管理中，并要求团队成员对此给予密切关注。",
+        "sentence_length": 65,
+        "perplexity": 95.28499603271484,
+        "diversity": 0.8657006025314331,
+        "perplexity_normalized": 0.055060819050625265,
+        "diversity_normalized": 0.9017661679955626
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，并要求团队成员对此给予高度关注。",
+        "sentence_length": 53,
+        "perplexity": 172.18321228027344,
+        "diversity": 0.8701348900794983,
+        "perplexity_normalized": 0.43291242783981876,
+        "diversity_normalized": 0.9202966470780032
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，让团队着重对此给予关注。",
+        "sentence_length": 49,
+        "perplexity": 285.16162109375,
+        "diversity": 0.8870915174484253,
+        "perplexity_normalized": 0.9880497978821392,
+        "diversity_normalized": 0.9911568304474243
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一环节。",
+        "sentence_length": 53,
+        "perplexity": 224.08970642089844,
+        "diversity": 0.8562408089637756,
+        "perplexity_normalized": 0.6879632375296296,
+        "diversity_normalized": 0.8622345623137955
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的健康发展，合作伙伴的盈利模式及其持续竞争力提升。需深入融合至合作伙伴及经销商的日常运营活动中。要求团队成员持续追踪并优化。",
+        "sentence_length": 67,
+        "perplexity": 172.603271484375,
+        "diversity": 0.7961719036102295,
+        "perplexity_normalized": 0.4349764555091409,
+        "diversity_normalized": 0.6112121416670635
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一能力融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 106.65547943115234,
+        "diversity": 0.8693544864654541,
+        "perplexity_normalized": 0.11093149660937585,
+        "diversity_normalized": 0.9170354122822992
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的成长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队针对各合作伙伴的盈利模式进行深入研究和关注。",
+        "sentence_length": 60,
+        "perplexity": 133.75559997558594,
+        "diversity": 0.7981623411178589,
+        "perplexity_normalized": 0.24409224656916972,
+        "diversity_normalized": 0.6195299966099896
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一因素整合入合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 125.2854232788086,
+        "diversity": 0.860184371471405,
+        "perplexity_normalized": 0.2024726870035385,
+        "diversity_normalized": 0.8787143466682874
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络优化对业绩增长的作用至关重要，需深入融合伙伴及经销商的盈利模式。要求团队专注于提升合作伙伴与经销商的盈利潜能和经营效益。",
+        "sentence_length": 65,
+        "perplexity": 138.916259765625,
+        "diversity": 0.828924298286438,
+        "perplexity_normalized": 0.26944996875354965,
+        "diversity_normalized": 0.7480813811714193
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，让团队着重对此给予关注。",
+        "sentence_length": 49,
+        "perplexity": 285.16162109375,
+        "diversity": 0.8870915174484253,
+        "perplexity_normalized": 0.9880497978821392,
+        "diversity_normalized": 0.9911568304474243
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的成长动力，关键在于其盈利模式和业务拓展能力。需要深入融合合作伙伴及经销商的运营策略，并指导团队专注于提升其市场竞争力和盈利潜能。",
+        "sentence_length": 70,
+        "perplexity": 111.84564208984375,
+        "diversity": 0.7812191843986511,
+        "perplexity_normalized": 0.13643418582846956,
+        "diversity_normalized": 0.5487261058445423
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的价值提升，关键在于其盈利模式的创新与优化。需深入融合合作伙伴及经销商的运营策略，强调团队针对盈利增长点的持续关注与挖掘。",
+        "sentence_length": 66,
+        "perplexity": 84.45059967041016,
+        "diversity": 0.7945073843002319,
+        "perplexity_normalized": 0.0018242903569368196,
+        "diversity_normalized": 0.604256268841521
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，要求团队成员对此给予高度关注。",
+        "sentence_length": 52,
+        "perplexity": 171.88002014160156,
+        "diversity": 0.8663932085037231,
+        "perplexity_normalized": 0.4314226450729389,
+        "diversity_normalized": 0.9046605045361629
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及分销商的运营策略。要求团队聚焦于提高合作伙伴的商业效益和市场份额。",
+        "sentence_length": 58,
+        "perplexity": 156.56520080566406,
+        "diversity": 0.8034067749977112,
+        "perplexity_normalized": 0.35617084591844883,
+        "diversity_normalized": 0.6414460025650501
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及分销商的运营策略。要求团队针对分销商的盈利潜力和增长点进行专注分析和行动规划。",
+        "sentence_length": 64,
+        "perplexity": 127.5234146118164,
+        "diversity": 0.7515939474105835,
+        "perplexity_normalized": 0.2134694131552991,
+        "diversity_normalized": 0.4249249701786195
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。需要将这一要素融入到合作伙伴及经销商的运营中。要求团队成员对此给予密切关注。",
+        "sentence_length": 60,
+        "perplexity": 103.740234375,
+        "diversity": 0.8741829991340637,
+        "perplexity_normalized": 0.09660697663695228,
+        "diversity_normalized": 0.9372133218190881
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队密切关注这一环节。",
+        "sentence_length": 53,
+        "perplexity": 224.08970642089844,
+        "diversity": 0.8562408089637756,
+        "perplexity_normalized": 0.6879632375296296,
+        "diversity_normalized": 0.8622345623137955
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需要深入到他们的运营中去整合。请指示团队对此给予密切关注。",
+        "sentence_length": 53,
+        "perplexity": 245.551025390625,
+        "diversity": 0.8591813445091248,
+        "perplexity_normalized": 0.7934168396436667,
+        "diversity_normalized": 0.8745227894131049
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及分销商的运营策略。要求团队侧重于优化合作伙伴的商业效益及市场竞争力。",
+        "sentence_length": 59,
+        "perplexity": 171.88560485839844,
+        "diversity": 0.8731153607368469,
+        "perplexity_normalized": 0.43145008646663185,
+        "diversity_normalized": 0.932751759330686
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络的增长与盈利性提升，需深入融合合作伙伴及经销商的运营策略。要求团队聚焦于增强合作伙伴的市场竞争力和盈利潜能。",
+        "sentence_length": 59,
+        "perplexity": 152.50900268554688,
+        "diversity": 0.8794739246368408,
+        "perplexity_normalized": 0.3362400717075107,
+        "diversity_normalized": 0.9593236119825534
+    },
+    {
+        "type": "style",
+        "evol_prompt": "合作伙伴与经销商的盈利实力是推动业绩的关键。我们需深入融合他们的运营体系，让团队着重对此给予关注。",
+        "sentence_length": 49,
+        "perplexity": 285.16162109375,
+        "diversity": 0.8870915174484253,
+        "perplexity_normalized": 0.9880497978821392,
+        "diversity_normalized": 0.9911568304474243
+    },
+    {
+        "type": "bread",
+        "evol_prompt": "经销商网络盈利增长策略，需深度整合至合作伙伴及分销商的运营核心。要求团队聚焦于提升分销商的盈利潜力和业务效能。",
+        "sentence_length": 55,
+        "perplexity": 126.24697875976562,
+        "diversity": 0.7485194802284241,
+        "perplexity_normalized": 0.20719744270203255,
+        "diversity_normalized": 0.4120770551097124
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    },
+    {
+        "type": "structure",
+        "evol_prompt": "合作伙伴与经销商的盈利能力是推动业绩的关键。我们需要将这一要素融入到合作伙伴及经销商的运营中，并要求团队对此给予密切关注。",
+        "sentence_length": 61,
+        "perplexity": 104.8093032836914,
+        "diversity": 0.8659389019012451,
+        "perplexity_normalized": 0.1018600166522774,
+        "diversity_normalized": 0.9027619991047984
+    }
+]
